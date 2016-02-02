@@ -1,0 +1,13 @@
+<resources>
+    
+<color name="kwh1">#000000</color>
+<color name="kwh2">#000066</color>
+<color name="kwh21">#CC9933</color>
+<color name="norm">#33b5e5</color>
+<color name="grey">#993333</color>
+<color name="brown">#993333</color>
+<color name="text">#33b5e5</color>
+<color name="app_bottom">#003366</color>
+<color name="app_top1">#003333</color>
+<color name="app_top">#484848</color>
+</resources>

@@ -1,0 +1,82 @@
+sudo apt-get install libopencv-dev
+
+sudo apt-get install build-essential checkinstall cmake pkg-config yasm
+
+sudo apt-get install libtiff4-dev libjpeg-dev libjasper-dev
+
+sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libdc1394-22-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev libv4l-dev
+
+sudo apt-get install python-dev python-numpy
+
+sudo apt-get install libtbb-dev
+
+sudo apt-get install libqt4-dev libgtk2.0-dev
+
+tar -xvf OpenCV-2.4.0.tar.bz2
+
+cd OpenCV-2.4.0/
+
+mkdir build
+
+cd build
+
+ cmake -D WITH_XINE=ON -D WITH_OPENGL=ON -D WITH_TBB=ON -D BUILD_EXAMPLES=ON ..
+
+make
+
+sudo make install
+
+sudo ldconfig
+
+./opencv_test_core
+
+IN ECLIPSE
+
+Project -> Cross GCC -> Properties -> C/C++ Build
+
+Cross G++ Compiler
+
+-I/usr/local/include/opencv -I/usr/include -I/usr/local/include/opencv2 -I/usr/include/opencv2 -O0 -g3 -Wall -c -fmessage-length=0
+
+Libraries
+/usr/local/include/opencv
+/usr/include
+/usr/local/include/opencv2
+/usr/include/opencv2
+
+Cross G++ Linker
+
+-L/usr/local/lib -L/usr/lib
+
+Libraries
+
+opencv_core
+opencv_highgui
+opencv_objdetect
+opencv_contrib
+opencv_video
+
+/usr/local/lib
+/usr/lib
+
+
+sudo
+ gedit bash.bashrc
+
+sudo ldconfig /etc/ld.so.conf
+
+sudo gedit opencv.conf
+
+wget http://www.linuxtv.org/downloads/v4l-utils/v4l-utils-0.8.8.tar.bz2
+
+tar xvf v4l-utils-0.8.8.tar.bz2
+cd v4l-utils-0.8.8
+
+make
+
+sudo make install
+
+opencv
+
+
+

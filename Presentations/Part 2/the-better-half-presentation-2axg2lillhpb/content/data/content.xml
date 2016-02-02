@@ -1,0 +1,4431 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-399585.2532070586" y="-368457.971000079" width="799170.5064141173" height="736915.9420001579"/>
+      <aspectratio>4:3</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="84" type="button" x="109987.47166883724" y="117581.11697293568" r="-22.90253473298631" s="30.674673919046302" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="0_1469363" type="shape" x="111086.09195820456" y="118416.16133383902" r="-22.9025347329863" s="0.7960656552805592" class="poly1">
+      <geom type="poly">
+        <p x="-182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="133.99997329900538"/>
+        <p x="-182.7349162000785" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="7" type="button" x="-82307.23825712572" y="258932.95875771748" r="-40.76145616302073" s="39.92586833114742" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="8" type="label" x="-82948.36758621346" y="258341.2808178864" r="-40.76145616302073" s="50.8655562538818" class="head">
+      <textfield autoSize="true">
+        <x>-73.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Software]]></text>
+        <w>147.65</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="9" type="button" x="305160.09315406036" y="342770.3000299457" r="0" s="68.73875025457119" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>999.788031914894</w>
+        <h>749.1499999999999</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="10" type="shape" x="305063.30781949236" y="336600.2079146279" r="-3.2115466433206923e-15" s="54.4551766627746" class="line3">
+      <geom type="line">
+        <sp>-88.9 86.675</sp>
+        <ep>88.9 86.675</ep>
+        <b>-173.35</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="11" type="shape" x="301614.2649624072" y="344215.4422758653" r="69.36213536358876" s="54.45517666277446" class="line3">
+      <geom type="line">
+        <sp>-58.75079216581212 5.175</sp>
+        <ep>58.75079216581213 5.175</ep>
+        <b>-10.35</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="12" type="shape" x="308619.4466052504" y="344184.929466211" r="-70.61336993184484" s="54.455176662774655" class="line3">
+      <geom type="line">
+        <sp>57.463362645730335 4.800000000000015</sp>
+        <ep>-57.46336264573034 4.799999999999983</ep>
+        <b>9.599999999999998</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="13" type="shape" x="302395.17433544365" y="338325.75632512965" r="-65.4996825734709" s="54.455176662774626" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="14" type="shape" x="305157.92989172897" y="338438.1818707209" r="-65.4996825734709" s="54.455176662774626" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="15" type="shape" x="303728.8156464004" y="338341.4121884202" r="-115.90463875252652" s="54.4551766627746" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="16" type="shape" x="306511.3050014409" y="338345.66649909696" r="-115.90463875252652" s="54.4551766627746" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="17" type="shape" x="307929.01149137097" y="338413.90564235236" r="-65.4996825734709" s="54.455176662774626" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="18" type="shape" x="305136.34342618624" y="348232.0038222237" r="-4.4106318363064705e-15" s="79.30171744700448" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="19" type="shape" x="305136.65213556006" y="349178.6730340205" r="-4.4106318363064705e-15" s="79.30171744700448" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="20" type="shape" x="305136.5976877954" y="350137.2543157125" r="-4.4106318363064705e-15" s="79.30171744700448" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="22" type="shape" x="301476.257773268" y="329577.4376237999" r="41.43188862087571" s="38.89655475912472" class="line4">
+      <geom type="arrow">
+        <sp>63.87284836463097 10.080000000000016</sp>
+        <ep>-63.87284836463097 10.07999999999998</ep>
+        <b>20.159999999999997</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="23" type="shape" x="309272.0864132881" y="329729.57178472664" r="-40.93514544776639" s="38.896554759124726" class="line4">
+      <geom type="arrow">
+        <sp>-61.4620699310577 9.029999999999998</sp>
+        <ep>61.4620699310577 9.029999999999998</ep>
+        <b>-18.059999999999995</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="24" type="shape" x="314191.1455360111" y="336946.21802514716" r="-3.7717142786010345" s="38.89655475912478" class="line4">
+      <geom type="arrow">
+        <sp>-54.28930735102486 10.724999999999996</sp>
+        <ep>54.28930735102486 10.724999999999996</ep>
+        <b>-21.449999999999992</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="25" type="shape" x="295904.46990174236" y="337488.51526584715" r="-3.1519868047807194" s="38.896554759124804" class="line4">
+      <geom type="arrow">
+        <sp>57.132618367059514 6.405000000000002</sp>
+        <ep>-57.132618367059514 6.404999999999999</ep>
+        <b>12.81</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="27" type="label" x="305160.2158729871" y="355032.3751819553" r="-5.899639694199505e-15" s="118.57357322666024" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[The Idea!]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="28" type="button" x="289368.24564407376" y="339931.94536202267" r="-56.900712517750215" s="10.474980394491489" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="29" type="label" x="289121.5496512396" y="340177.97502343566" r="-56.90071251775021" s="15.24912019788862" class="head">
+      <textfield autoSize="true">
+        <x>-154.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Internet is Ubiquitous!]]></text>
+        <w>309.45</w>
+        <h>36.65</h>
+        <annotations>r0-23 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="30" type="button" x="294432.24688293954" y="325643.4842182473" r="-16.227686709290552" s="10.474980394491494" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="31" type="button" x="315939.6135408073" y="325640.43009090755" r="26.56630748804903" s="10.4749803944915" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="32" type="button" x="321135.9244486087" y="338641.8405279042" r="-5.169424152570808" s="10.47498039449149" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="34" type="label" x="293388.7392702616" y="325575.5566983318" r="-16.227686709290552" s="15.249120197888589" class="head">
+      <textfield autoSize="true">
+        <x>-60.3</x>
+        <y>-18.3</y>
+        <text><![CDATA[People]]></text>
+        <w>120.65</w>
+        <h>36.65</h>
+        <annotations>r0-6 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="36" type="label" x="316229.21822495834" y="325491.4028644982" r="26.56630748804902" s="15.249120197888598" class="head">
+      <textfield autoSize="true">
+        <x>-116.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[A Mobile Phone!]]></text>
+        <w>232.7</w>
+        <h>36.65</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="38" type="label" x="321124.8265791673" y="338529.2191262914" r="-5.169424152570812" s="15.249120197888583" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[Smart Saving]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-12 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="41" type="image" x="295320.956622141" y="325305.1259665102" r="-16.227686709290555" s="2.3701548443246647">
+      <source w="567" h="567" bt="295.9" bl="261.75">
+        233792522.swf
+        <url>233792522.swf</url>
+      </source>
+      <resource>
+        <id>233792522</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/8/5187bf51b394f12469620c8d55ceabf3b4921.swf</url>
+      </resource>
+      <sourceUrl>059_nagyito.swf</sourceUrl>
+      <meta>
+        <parentObjlib>059_nagyito</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="42" type="label" x="294898.1860011253" y="325066.18947564997" r="-11.058262556719747" s="3.409370513305713" class="strong">
+      <textfield autoSize="true">
+        <x>-36.9</x>
+        <y>-17.5</y>
+        <text><![CDATA[Luxury]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="43" type="label" x="295121.18674114736" y="325219.7075204263" r="-11.058262556719747" s="3.409370513305713" class="strong">
+      <textfield autoSize="true">
+        <x>-43.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Comfort]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="44" type="button" x="289930.11115277035" y="341723.8925848294" r="-51.73128836517942" s="0.6481421838350243" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="45" type="label" x="289844.87243252806" y="341724.7401195981" r="-51.731288365179395" s="0.5898093872898714" class="head">
+      <textfield autoSize="true">
+        <x>-103.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[why Internet?]]></text>
+        <w>206.85</w>
+        <h>36.65</h>
+        <annotations>r4-13 { color: #318bff; }
+r0-13 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="47" type="label" x="289888.6969602639" y="341727.71954582614" r="-51.73128836517941" s="0.300923156780547" class="head">
+      <textfield autoSize="true">
+        <x>-108.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[always connected]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="48" type="label" x="289967.36536815413" y="341687.5178580539" r="-51.73128836517941" s="0.42129241949276575" class="head">
+      <textfield autoSize="true">
+        <x>-141.45</x>
+        <y>-18.3</y>
+        <text><![CDATA[multiple access devices]]></text>
+        <annotations>r0-23 { color: #437314; }
+r0-23 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="49" type="label" x="289940.3786954606" y="341789.93322246196" r="-51.731288365179395" s="0.5898093872898713" class="head">
+      <textfield autoSize="true">
+        <x>-90</x>
+        <y>-18.3</y>
+        <text><![CDATA[limitless range]]></text>
+        <annotations>r0-15 { color: #6fcc00; }
+r0-15 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="51" type="button" x="293360.9549724072" y="326801.1591291247" r="-33.88876337423097" s="0.2624207035564319" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="52" type="label" x="293334.1931012113" y="326786.94943499606" r="-33.88876337423097" s="0.2388028402363531" class="head">
+      <textfield autoSize="true">
+        <x>-134.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[what People Need?]]></text>
+        <w>268.5</w>
+        <h>36.65</h>
+        <annotations>r5-17 { color: #318bff; }
+r0-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="53" type="label" x="293358.50590141345" y="326793.3174412327" r="-33.88876337423096" s="0.16036261605317315" class="head">
+      <textfield autoSize="true">
+        <x>-86.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Ease of Access]]></text>
+        <annotations>r0-14 { color: #6fcc00; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="54" type="label" x="293345.98657921085" y="326821.9793304615" r="-33.88876337423097" s="0.2388028402363531" class="head">
+      <textfield autoSize="true">
+        <x>-87.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Instant Access]]></text>
+        <annotations>r0-14 { color: #35afa9; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="56" type="label" x="293387.5211425761" y="326808.1038576342" r="-33.88876337423096" s="0.16036261605317315" class="head">
+      <textfield autoSize="true">
+        <x>-43.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Luxury]]></text>
+        <annotations>r0-6 { color: #87234b; }
+r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="58" type="button" x="315069.2430740714" y="326293.66497545707" r="31.735731640619825" s="2.083297577811232" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="59" type="label" x="315040.373068881" y="326051.10835209297" r="31.73573164061983" s="1.8958007958082213" class="head">
+      <textfield autoSize="true">
+        <x>-111.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[a Mobile Phone]]></text>
+        <w>223.75</w>
+        <h>36.65</h>
+        <annotations>r2-14 { color: #318bff; }
+r0-14 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="61" type="label" x="315054.24984479626" y="326242.24486930063" r="31.73573164061984" s="1.207456090626545" class="strong">
+      <textfield autoSize="true">
+        <x>-90.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[One for everyone]]></text>
+        <annotations>r0-16 { color: #175d66; }
+r0-16 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="62" type="label" x="314859.35793166363" y="326304.6593891066" r="31.73573164061985" s="1.6904385268771622" class="strong">
+      <textfield autoSize="true">
+        <x>-69.7</x>
+        <y>-17.5</y>
+        <text><![CDATA[Multipurpose]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="63" type="label" x="315195.92440238927" y="326458.66461073427" r="31.73573164061984" s="1.207456090626545" class="strong">
+      <textfield autoSize="true">
+        <x>-81.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Well connected]]></text>
+        <annotations>r0-14 { color: #5b28e0; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="64" type="button" x="320841.8199130968" y="339959.6657655617" r="0" s="2.340200282625619" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="65" type="label" x="320741.91491861426" y="339723.40427979536" r="0" s="2.1295822571893126" class="head">
+      <textfield autoSize="true">
+        <x>-132</x>
+        <y>-18.3</y>
+        <text><![CDATA[why Smart Saving?]]></text>
+        <w>264.05</w>
+        <h>36.65</h>
+        <annotations>r4-17 { color: #318bff; }
+r0-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="67" type="label" x="320866.1381250548" y="339874.74162995885" r="-3.2329876434830368e-15" s="1.6904385268771622" class="strong">
+      <textfield autoSize="true">
+        <x>-114.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[shortage of Electricity]]></text>
+        <annotations>r0-23 { color: #437314; }
+r0-23 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="68" type="label" x="320697.3530129581" y="340071.0826149811" r="0" s="1.2074560906265446" class="strong">
+      <textfield autoSize="true">
+        <x>-122.75</x>
+        <y>-17.5</y>
+        <text><![CDATA[Highly affluent lifestyle]]></text>
+        <annotations>r0-25 { color: #194a99; }
+r0-25 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="69" type="label" x="321043.5048000814" y="340018.42890474334" r="0" s="1.2074560906265446" class="strong">
+      <textfield autoSize="true">
+        <x>-81.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Busy Schedules]]></text>
+        <annotations>r0-14 { color: #5b28e0; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="73" type="button" x="305397.4522172632" y="341941.4363020598" r="-3.2788374514624226e-15" s="3.333600369255249" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="74" type="label" x="305222.2945587513" y="341592.4117564051" r="-5.044365309942189e-15" s="2.1668402400159117" class="head">
+      <textfield autoSize="true">
+        <x>-181.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[so the Software System is ?]]></text>
+        <w>363.15</w>
+        <h>36.65</h>
+        <annotations>r7-25 { color: #318bff; }
+ r0-27 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="76" type="label" x="305460.86368576984" y="341816.98495314614" r="-5.044365309942189e-15" s="2.1668402400159117" class="strong">
+      <textfield autoSize="true">
+        <x>-219.3</x>
+        <y>-33</y>
+        <text><![CDATA[Developing a system to control appliancesremotely using the Internet.]]></text>
+        <annotations>r23-41 { color: #322c69; }
+ r61-69 { color: #322c69; }
+ r0-42 { align: left; }
+r42-70 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="77" type="label" x="305421.8590927103" y="342023.14362538315" r="-5.044365309942189e-15" s="2.1668402400159117" class="strong">
+      <textfield autoSize="true">
+        <x>-161.6</x>
+        <y>-33</y>
+        <text><![CDATA[Mobile Phone is the remoteSmart Occupancy Sensor]]></text>
+        <annotations>r20-26 { color: #322c69; }
+ r33-49 { color: #322c69; }
+r0-27 { bullet: true; }
+r0-27 { align: left; }
+r0-27 { blockIndent: 36; }
+r27-49 { bullet: true; }
+r27-49 { align: left; }
+r27-49 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="78" type="button" x="53758.74299871349" y="90844.24876599186" r="0" s="34.538646923773314" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="79" type="label" x="52484.66675337776" y="87489.49874906856" r="-3.894975526283767e-15" s="22.450120500452652" class="head">
+      <textfield autoSize="true">
+        <x>-193.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[parts of the Software System]]></text>
+        <w>386.45</w>
+        <h>36.65</h>
+        <annotations>r13-28 { color: #318bff; }
+r0-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="80" type="label" x="53144.26211683219" y="91134.25233792864" r="-3.894975526283767e-15" s="22.450120500452652" class="strong">
+      <textfield autoSize="true">
+        <x>-163.95</x>
+        <y>-79.5</y>
+        <text><![CDATA[Mobile ApplicationCamera Interfacing ProgramSwitch Interfacing ProgramDisplay Output DriversControl Signaling Programs]]></text>
+        <annotations>r0-122 { color: #640f1e; }
+r0-19 { bullet: true; }
+r0-19 { align: left; }
+r0-19 { blockIndent: 36; }
+r19-46 { bullet: true; }
+r19-46 { align: left; }
+r19-46 { blockIndent: 36; }
+r46-73 { bullet: true; }
+r46-73 { align: left; }
+r46-73 { blockIndent: 36; }
+r73-96 { bullet: true; }
+r73-96 { align: left; }
+r73-96 { blockIndent: 36; }
+r96-122 { bullet: true; }
+r96-122 { align: left; }
+r96-122 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="85" type="label" x="107787.4741947882" y="114863.98092302418" r="-22.9025347329863" s="19.938538047380103" class="head">
+      <textfield autoSize="true">
+        <x>-225.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[architecture of SOFTWARE SYSTEM]]></text>
+        <w>450.8</w>
+        <h>36.65</h>
+        <annotations>r16-31 { color: #318bff; }
+r0-31 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1462315" type="button" x="110297.4564838165" y="118315.74521368928" r="-22.9025347329863" s="11.635219722388362" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>555.1720475859277</w>
+        <h>542.0312685264902</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="1_1462315" type="shape" x="111063.3948334432" y="116487.0906047857" r="112.47029347750254" s="8.432072748321191" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="2_1462315" type="shape" x="111996.8045239985" y="119054.37305256436" r="22.44505441816337" s="8.432072748321172" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="3_1462315" type="shape" x="109621.96424266433" y="120042.99340445617" r="111.73262962763128" s="8.43207274832119" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="4_1462315" type="shape" x="108519.0708492519" y="117586.0566985699" r="22.240024503473492" s="8.432072748321177" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="5_1462315" type="button" x="110268.0974756312" y="118262.48458454924" r="-22.902534732986304" s="4.675161754499329" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>611.5893112430587</w>
+        <h>611.5917222759061</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="7_1462315" type="button" x="113144.58589395069" y="119536.12756491058" r="-22.9025347329863" s="2.4251414250582974" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>605.6999040532014</w>
+        <h>601.4983111292843</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="8_1462315" type="shape" x="113132.57313730229" y="119523.8240738916" r="-22.9025347329863" s="6.13613788644528" class="poly3">
+      <geom type="circle">
+        <r>114.27375478023326</r>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="9_1462315" type="button" x="107408.84840974672" y="117108.23161223822" r="-22.9025347329863" s="2.437267132183589" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>602.9850746268658</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="10_1462315" type="shape" x="107408.02707395752" y="117108.5026939053" r="-22.902534732986304" s="6.136137886445293" class="poly3">
+      <geom type="circle">
+        <r>114.27375478023326</r>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="11_1462315" type="button" x="111529.0775269132" y="115367.2496980315" r="-22.9025347329863" s="1.846138909825628" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="12_1462315" type="shape" x="111526.49704303835" y="115369.73726841716" r="-22.9025347329863" s="6.136137886445283" class="poly3">
+      <geom type="circle">
+        <r>114.27375478023326</r>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="13_1462315" type="button" x="109179.40588636095" y="121184.63464428332" r="-22.90253473298631" s="2.4978956678100457" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>587.9114888469071</w>
+        <h>591.4051188704234</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="14_1462315" type="shape" x="109166.67147417096" y="121184.51129715408" r="-22.902534732986304" s="6.136137886445275" class="poly3">
+      <geom type="circle">
+        <r>114.27375478023326</r>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="15_1462315" type="label" x="110513.66219663268" y="118113.7839396493" r="-22.9025347329863" s="25.925507017311254" class="strong">
+      <textfield>
+        <x>-101</x>
+        <y>-17.5</y>
+        <text><![CDATA[RASPBERRY  PI]]></text>
+        <w>202</w>
+        <h>35</h>
+        <annotations>r0-13 { color: #965432; }
+r0-13 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="16_1462315" type="label" x="107448.08840001134" y="117199.5812301794" r="-22.9025347329863" s="11.580428849434078" class="strong">
+      <textfield>
+        <x>-94.1</x>
+        <y>-33</y>
+        <text><![CDATA[MOBILE APP 1]]></text>
+        <w>188.2</w>
+        <h>66</h>
+        <annotations>r0-13 { color: #640f1e; }
+r0-8 { align: center; }
+r8-13 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="17_1462315" type="label" x="111547.90776380542" y="115419.92605238622" r="-22.9025347329863" s="11.580428849434078" class="strong">
+      <textfield>
+        <x>-94.1</x>
+        <y>-33</y>
+        <text><![CDATA[MOBILE APP 2]]></text>
+        <w>188.2</w>
+        <h>66</h>
+        <annotations>r0-13 { color: #640f1e; }
+r0-7 { align: center; }
+r7-13 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="18_1462315" type="label" x="113101.61976691608" y="119434.71054267634" r="-22.9025347329863" s="11.580428849434078" class="strong">
+      <textfield>
+        <x>-122.7</x>
+        <y>-33</y>
+        <text><![CDATA[SWITCH INTERFACE]]></text>
+        <w>245.45</w>
+        <h>66</h>
+        <annotations>r0-17 { color: #640f1e; }
+r0-8 { align: center; }
+r8-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="19_1462315" type="label" x="109126.13210461134" y="121057.42392174705" r="-22.9025347329863" s="11.580428849434078" class="strong">
+      <textfield>
+        <x>-125.3</x>
+        <y>-33</y>
+        <text><![CDATA[CAMERAINTERFACE]]></text>
+        <w>250.6</w>
+        <h>66</h>
+        <annotations>r0-16 { color: #640f1e; }
+r0-7 { align: center; }
+r7-16 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="20_1462315" type="shape" x="110129.19550252424" y="118817.37720886584" r="-22.9025347329863" s="0.7960656552805592" class="poly1">
+      <geom type="poly">
+        <p x="-182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="133.99997329900538"/>
+        <p x="-182.7349162000785" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="21_1462315" type="shape" x="109959.51010037024" y="118712.3357939242" r="30.806571669056364" s="0.8624686361618178" class="line3">
+      <geom type="arrow">
+        <sp>-59.6845548988626 0</sp>
+        <ep>59.6845548988626 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="22_1462315" type="shape" x="109923.12684634385" y="118879.37504467725" r="-37.90253473298628" s="0.8624686361618171" class="line3">
+      <geom type="arrow">
+        <sp>-65.36657344201514 0</sp>
+        <ep>65.36657344201515 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="23_1462315" type="shape" x="109988.181988257" y="118991.4234766732" r="-67.9025347329863" s="0.8624686361618176" class="line3">
+      <geom type="arrow">
+        <sp>-61.51209840817142 0</sp>
+        <ep>61.51209840817142 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="26_1462315" type="shape" x="110216.5466333632" y="118953.66793756552" r="48.828636559833434" s="0.862468636161818" class="line3">
+      <geom type="arrow">
+        <sp>46.9879518779725 0</sp>
+        <ep>-46.9879518779725 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="27_1462315" type="label" x="110121.44260003872" y="118809.04273185908" r="-22.902534732986304" s="1.2074560906265444" class="strong">
+      <textfield autoSize="true">
+        <x>-114.3</x>
+        <y>-17.5</y>
+        <text><![CDATA[Intermediate Program]]></text>
+        <annotations>r0-20 { color: #640f1e; }
+r0-20 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="28_1462315" type="shape" x="110574.73627930589" y="118632.14037838152" r="-22.9025347329863" s="0.7960656552805592" class="poly1">
+      <geom type="poly">
+        <p x="-182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="-133.99997329900538"/>
+        <p x="182.7349162000785" y="133.99997329900538"/>
+        <p x="-182.7349162000785" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="0_1471116" type="image" x="110838.63479352454" y="118520.65741987286" r="-22.9025347329863" s="0.1978157654961097">
+      <source w="1800" h="1077">
+        660860687.jpg
+        <url>660860687.jpg</url>
+        <mask x="0" y="145" w="1705" h="917"/>
+      </source>
+      <resource>
+        <id>660860687</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/b/5b4312f9f901d107dc8555df5764f5f602235.jpg</url>
+      </resource>
+      <sourceUrl>IMAG2913.jpg</sourceUrl>
+      <layout/>
+    </object>
+    <object id="29_1462315" type="label" x="110546.1839251734" y="118632.59301810282" r="-22.902534732986304" s="1.2074560906265444" class="strong">
+      <textfield autoSize="true">
+        <x>-95.6</x>
+        <y>-17.5</y>
+        <text><![CDATA[     Driver Program]]></text>
+        <annotations>r0-19 { color: #640f1e; }
+r0-19 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="1_1469363" type="label" x="111095.52414661871" y="118407.26107520398" r="-22.902534732986297" s="1.2074560906265437" class="strong">
+      <textfield autoSize="true">
+        <x>-111.7</x>
+        <y>-33</y>
+        <text><![CDATA[     Hardware Control            System]]></text>
+        <annotations>r0-40 { color: #640f1e; }
+r0-23 { align: left; }
+r23-40 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="2_1469363" type="shape" x="110368.23248134134" y="118740.87415009212" r="-22.902534732986304" s="1.2074560906265444" class="line4">
+      <geom type="arrow">
+        <sp>-98.65687993853598 0</sp>
+        <ep>98.65687993853598 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="1_1471116" type="button" x="23048.082425982935" y="107026.0897500912" r="0" s="12.791628682332307" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="2_1471116" type="label" x="22093.55249975303" y="105649.51446083828" r="0" s="11.640382100922396" class="head">
+      <textfield autoSize="true">
+        <x>-124.05</x>
+        <y>-18.3</y>
+        <text><![CDATA[Camera Interface]]></text>
+        <w>248.1</w>
+        <h>36.65</h>
+        <annotations>r0-16 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="4_1471116" type="label" x="22002.013427451508" y="106308.28941401858" r="-5.2584071903549305e-15" s="8.314558643516" class="strong">
+      <textfield autoSize="true">
+        <x>-114.4</x>
+        <y>-33</y>
+        <text><![CDATA[C++ PlatformOpenCV Libararies]]></text>
+        <annotations>r0-13 { bullet: true; }
+r0-13 { align: left; }
+r0-13 { blockIndent: 36; }
+r13-30 { bullet: true; }
+r13-30 { align: left; }
+r13-30 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1474729" type="image" x="21338.374961929698" y="107921.77432967022" r="0" s="4.774678365537423">
+      <source w="238" h="302">
+        660904175.png
+        <url>660904175.png</url>
+      </source>
+      <resource>
+        <id>660904175</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/7/acab85059feef181e75e5dcc53f54afefee01.png</url>
+      </resource>
+      <sourceUrl>wec.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="6_1471116" type="image" x="24348.64924272523" y="107026.2300213116" r="0" s="4.199276229743193">
+      <source w="410" h="670">
+        660887557.png
+        <url>660887557.png</url>
+      </source>
+      <resource>
+        <id>660887557</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/5/7/9d80b01ae28afb937629e6f8ae77edbfd659d.png</url>
+      </resource>
+      <sourceUrl>webcam.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="5_1471116" type="label" x="22661.68663953942" y="107016.84618746243" r="-5.2584071903549305e-15" s="8.314558643516" class="strong">
+      <textfield autoSize="true">
+        <x>-108.1</x>
+        <y>-48.5</y>
+        <text><![CDATA[HOGPeople DetectionSocket Program]]></text>
+        <annotations>r0-35 { color: #35afa9; }
+r0-4 { bullet: true; }
+r0-4 { align: left; }
+r0-4 { blockIndent: 36; }
+r4-21 { bullet: true; }
+r4-21 { align: left; }
+r4-21 { blockIndent: 36; }
+r21-35 { bullet: true; }
+r21-35 { align: left; }
+r21-35 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1475295" type="button" x="13235.76909060459" y="83389.79025601262" r="-4.922602632728681e-15" s="17.76350366572522" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1475295" type="label" x="11988.299599951915" y="81378.87208680731" r="0" s="16.16478833580996" class="head">
+      <textfield autoSize="true">
+        <x>-128.65</x>
+        <y>-18.3</y>
+        <text><![CDATA[Switch Interfacing]]></text>
+        <w>257.3</w>
+        <h>36.65</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="4_1475295" type="image" x="15411.61011060539" y="83691.15050035721" r="-3.848813317909502e-15" s="5.6798461427377935">
+      <source w="290" h="674">
+        660936327.png
+        <url>660936327.png</url>
+      </source>
+      <resource>
+        <id>660936327</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/1/a/cc21d1c5b31b1c749fc69d4a4d2039123728f.png</url>
+      </resource>
+      <sourceUrl>switch.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="3_1475295" type="label" x="12879.70405885705" y="81994.67469302689" r="-3.7866174097912915e-15" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-194.4</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program to read inputs from switches]]></text>
+        <annotations>r0-36 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="5_1475295" type="label" x="12064.80056797948" y="82709.18683465515" r="-3.7866174097912915e-15" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-92.85</x>
+        <y>-33</y>
+        <text><![CDATA[PythonUses Rpi GPIO]]></text>
+        <annotations>r0-7 { bullet: true; }
+r0-7 { align: left; }
+r0-7 { blockIndent: 36; }
+r7-20 { bullet: true; }
+r7-20 { align: left; }
+r7-20 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="6_1475295" type="label" x="12667.666144656516" y="83702.79382694536" r="-3.7866174097912915e-15" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-92.5</x>
+        <y>-48.5</y>
+        <text><![CDATA[DebouncingFilteringSocket Comm.]]></text>
+        <annotations>r0-11 { bullet: true; }
+r0-11 { align: left; }
+r0-11 { blockIndent: 36; }
+r11-21 { bullet: true; }
+r11-21 { align: left; }
+r11-21 { blockIndent: 36; }
+r21-33 { bullet: true; }
+r21-33 { align: left; }
+r21-33 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="7_1475295" type="shape" x="11344.646269225428" y="85107.10838377583" r="4.6474541528307716e-15" s="2.3518970557816874" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="8_1475295" type="label" x="11322.344442539606" y="85106.03029798069" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="9_1475295" type="shape" x="13209.253324734384" y="85107.10838377583" r="4.6474541528307716e-15" s="2.3518970557816874" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="10_1475295" type="label" x="13209.253324734384" y="85102.40792970874" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-67.75</x>
+        <y>-33</y>
+        <text><![CDATA[Intermediate Program]]></text>
+        <annotations>r0-13 { align: left; }
+r13-21 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="11_1475295" type="shape" x="12291.311760999246" y="85118.69709684457" r="0" s="3.520280147599255" class="line3">
+      <geom type="arrow">
+        <sp>-97.73976432282362 0</sp>
+        <ep>97.73976432282362 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="12_1475295" type="button" x="31535.535275728256" y="75047.13632788091" r="-4.922602632728681e-15" s="17.76350366572522" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="23_1475295" type="image" x="33460.549194079365" y="75047.18121634376" r="-3.6163637336069485e-15" s="6.044930512573852">
+      <source w="344" h="664">
+        660960877.png
+        <url>660960877.png</url>
+      </source>
+      <resource>
+        <id>660960877</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/7/e/fc35ee520f72b704a491cd34ef6a4d53e3f8d.png</url>
+      </resource>
+      <sourceUrl>wec.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="13_1475295" type="label" x="30288.874024492372" y="73036.21815867575" r="0" s="16.164788335809956" class="head">
+      <textfield autoSize="true">
+        <x>-137.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[7 Seg Display Driver]]></text>
+        <w>275.2</w>
+        <h>36.65</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="15_1475295" type="label" x="30800.752345827437" y="73652.02076489522" r="0" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-161.6</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program to display information]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="16_1475295" type="label" x="30364.566753103005" y="74243.4586321432" r="0" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-92.85</x>
+        <y>-33</y>
+        <text><![CDATA[PythonUses Rpi GPIO]]></text>
+        <annotations>r0-7 { bullet: true; }
+r0-7 { align: left; }
+r0-7 { blockIndent: 36; }
+r7-20 { bullet: true; }
+r7-20 { align: left; }
+r7-20 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="18_1475295" type="shape" x="29327.599489591943" y="75858.50546238116" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="19_1475295" type="label" x="31225.289229738864" y="75865.6208286295" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="20_1475295" type="shape" x="31225.41860003424" y="75858.4623389493" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="21_1475295" type="label" x="29327.68573645539" y="75828.06031952458" r="-3.1683278906133776e-15" s="6.899749089294538" class="strong">
+      <textfield autoSize="true">
+        <x>-67.75</x>
+        <y>-33</y>
+        <text><![CDATA[Intermediate Program]]></text>
+        <annotations>r0-13 { align: left; }
+r13-21 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="22_1475295" type="shape" x="30270.58493226636" y="75843.71457302198" r="0" s="3.520280147599255" class="line3">
+      <geom type="arrow">
+        <sp>-80.77360844638632 0</sp>
+        <ep>80.77360844638632 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="24_1475295" type="label" x="29818.689131022453" y="75053.73597797858" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-126.75</x>
+        <y>-17.5</y>
+        <text><![CDATA[# Part of Driver Program]]></text>
+        <annotations>r0-24 { color: #322c69; }
+r0-24 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="25_1475295" type="label" x="31288.3356870423" y="75828.01719609283" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-33</y>
+        <text><![CDATA[Driver Program]]></text>
+        <annotations>r0-8 { align: left; }
+r8-15 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="26_1475295" type="label" x="31743.417262912975" y="76981.82773755009" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="27_1475295" type="shape" x="31743.546633208385" y="76974.66924786996" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="28_1475295" type="label" x="31743.457323659542" y="76950.29841459537" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-51.4</x>
+        <y>-33</y>
+        <text><![CDATA[HardwareControl]]></text>
+        <annotations>r0-9 { align: left; }
+r9-16 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="29_1475295" type="shape" x="31572.32992282843" y="76420.87870320964" r="90.00000000000001" s="2.5144858197137534" class="line3">
+      <geom type="arrow">
+        <sp>-82.32 0</sp>
+        <ep>82.32 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="30_1475295" type="button" x="43796.05598306374" y="65426.00715098011" r="-4.922602632728681e-15" s="17.76350366572522" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="32_1475295" type="label" x="43061.29613386152" y="63458.99619688528" r="0" s="16.16478833580996" class="head">
+      <textfield autoSize="true">
+        <x>-165.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Control Signalling Driver]]></text>
+        <w>331.65</w>
+        <h>36.65</h>
+        <annotations>r0-25 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="33_1475295" type="label" x="43288.73471760233" y="64030.89158799433" r="-3.7866174097912915e-15" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-181.3</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program to Activate pins of control]]></text>
+        <annotations>r0-35 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="34_1475295" type="label" x="42625.08746043848" y="64622.329455242325" r="-3.7866174097912915e-15" s="11.5462773827214" class="strong">
+      <textfield autoSize="true">
+        <x>-92.85</x>
+        <y>-33</y>
+        <text><![CDATA[PythonUses Rpi GPIO]]></text>
+        <annotations>r0-7 { bullet: true; }
+r0-7 { align: left; }
+r0-7 { blockIndent: 36; }
+r7-20 { bullet: true; }
+r7-20 { align: left; }
+r7-20 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="35_1475295" type="shape" x="46110.295256420686" y="64631.34981402006" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="36_1475295" type="label" x="46110.16588612527" y="65798.9167302241" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="37_1475295" type="shape" x="46110.295256420686" y="65791.7582405439" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="38_1475295" type="label" x="46110.38150328432" y="64600.904671163546" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-67.75</x>
+        <y>-33</y>
+        <text><![CDATA[Intermediate Program]]></text>
+        <annotations>r0-13 { align: left; }
+r13-21 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="39_1475295" type="shape" x="46111.33213952614" y="65241.06845057675" r="-90.00000000000006" s="2.514485819713754" class="line3">
+      <geom type="arrow">
+        <sp>98.98364134938966 0</sp>
+        <ep>-98.98364134938964 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="40_1475295" type="label" x="42186.53731963437" y="67235.70323120608" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-173.3</x>
+        <y>-17.5</y>
+        <text><![CDATA[# Part of Driver Program Program]]></text>
+        <annotations>r0-32 { color: #322c69; }
+r0-32 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="41_1475295" type="label" x="46110.24539249498" y="65837.31608390178" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-33</y>
+        <text><![CDATA[Driver Program]]></text>
+        <annotations>r0-8 { align: left; }
+r8-15 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="42_1475295" type="label" x="46110.20900955712" y="66915.12363914475" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="43_1475295" type="shape" x="46110.33837985252" y="66907.96514946458" r="0" s="2.351897055781688" class="poly3">
+      <geom type="poly">
+        <p x="-249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="-133.99997329900538"/>
+        <p x="249.39965895323343" y="133.99997329900538"/>
+        <p x="-249.39965895323343" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="44_1475295" type="label" x="46110.24907030364" y="66953.58364601454" r="0" s="6.8997490892945414" class="strong">
+      <textfield autoSize="true">
+        <x>-51.4</x>
+        <y>-33</y>
+        <text><![CDATA[HardwareControl]]></text>
+        <annotations>r0-9 { align: left; }
+r9-16 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="45_1475295" type="shape" x="46097.82263902032" y="66349.1096639143" r="90.00000000000001" s="2.514485819713754" class="line3">
+      <geom type="arrow">
+        <sp>-82.32 0</sp>
+        <ep>82.32 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="46_1475295" type="label" x="43387.52489548977" y="65659.49867518856" r="0" s="9.659648725012357" class="strong">
+      <textfield autoSize="true">
+        <x>-140.2</x>
+        <y>-64</y>
+        <text><![CDATA[Takes dataFilters and ManipulatesExtract InformationActivate required pins.]]></text>
+        <annotations>r0-11 { bullet: true; }
+r0-11 { align: left; }
+r0-11 { blockIndent: 36; }
+r11-35 { bullet: true; }
+r11-35 { align: left; }
+r11-35 { blockIndent: 36; }
+r35-55 { bullet: true; }
+r35-55 { align: left; }
+r35-55 { blockIndent: 36; }
+r55-78 { bullet: true; }
+r55-78 { align: left; }
+r55-78 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="47_1475295" type="button" x="-11565.968791625764" y="80286.5663999021" r="-38.33617880989621" s="25.99784340041649" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="48_1475295" type="label" x="-14939.22862663469" y="79305.67919242491" r="-38.33617880989621" s="23.65803749437902" class="head">
+      <textfield autoSize="true">
+        <x>-111.95</x>
+        <y>-18.3</y>
+        <text><![CDATA[Driver Program]]></text>
+        <w>223.9</w>
+        <h>36.65</h>
+        <annotations>r0-14 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="49_1475295" type="label" x="-13582.913617740847" y="79876.35404030394" r="-38.33617880989622" s="13.799498178589078" class="strong">
+      <textfield autoSize="true">
+        <x>-144.65</x>
+        <y>-33</y>
+        <text><![CDATA[PythonActivating required pins.]]></text>
+        <annotations>r0-7 { bullet: true; }
+r0-7 { align: left; }
+r0-7 { blockIndent: 36; }
+r7-32 { bullet: true; }
+r7-32 { align: left; }
+r7-32 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="50_1475295" type="label" x="-11973.193995045023" y="80482.98984060844" r="-38.33617880989622" s="13.799498178589078" class="strong">
+      <textfield autoSize="true">
+        <x>-144.5</x>
+        <y>-64</y>
+        <text><![CDATA[Server ModelNo direct AccessProcesses DataFinal Interface to Driver.]]></text>
+        <annotations>r0-13 { bullet: true; }
+r0-13 { align: left; }
+r0-13 { blockIndent: 36; }
+r13-30 { bullet: true; }
+r13-30 { align: left; }
+r13-30 { blockIndent: 36; }
+r30-45 { bullet: true; }
+r30-45 { align: left; }
+r30-45 { blockIndent: 36; }
+r45-71 { bullet: true; }
+r45-71 { align: left; }
+r45-71 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="51_1475295" type="button" x="-9017.13188728404" y="78270.90334414667" r="-38.33617880989622" s="0.9754439794362256" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1539.84375</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="52_1475295" type="button" x="-9385.903277607502" y="78562.46891047191" r="-38.33617880989621" s="0.7023359861787143" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="53_1475295" type="shape" x="-9078.325784066988" y="78326.43390272783" r="-38.33617880989621" s="2.684792894543324" class="line1">
+      <geom type="arrow">
+        <sp>-30.66399894557194 0</sp>
+        <ep>30.66399894557194 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="54_1475295" type="label" x="-9390.312995251774" y="78556.88148925413" r="-38.33617880989621" s="3.275852221295809" class="strong">
+      <textfield>
+        <x>-100.85</x>
+        <y>-33</y>
+        <text><![CDATA[IntermediateProgram]]></text>
+        <w>201.75</w>
+        <h>66</h>
+        <annotations>r0-13 { align: center; }
+r13-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="55_1475295" type="button" x="-8789.269686981166" y="78092.39641694402" r="-38.33617880989622" s="0.7027957290389729" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="56_1475295" type="shape" x="-8535.905530849202" y="78647.85406356225" r="-101.99558657449472" s="2.686550335979944" class="line1">
+      <geom type="arrow">
+        <sp>103.63003694925516 0</sp>
+        <ep>-103.63003694925516 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="57_1475295" type="label" x="-8794.438744895633" y="78085.7489765523" r="-38.33617880989621" s="3.275852221295809" class="strong">
+      <textfield>
+        <x>-99.2</x>
+        <y>-33</y>
+        <text><![CDATA[Driver Program]]></text>
+        <w>198.4</w>
+        <h>66</h>
+        <annotations>r0-8 { align: center; }
+r8-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1484250" type="button" x="-8215.287712573794" y="79284.98798897573" r="-38.33617880989622" s="1.5864979392380048" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>719.424171589603</w>
+        <h>539.5681286922023</h>
+      </size>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="1_1484250" type="shape" x="-8210.981704095919" y="79269.12308322958" r="-38.40476706889712" s="1.5052313704098261" class="line3">
+      <geom type="line">
+        <sp>-194.07138903714608 0</sp>
+        <ep>194.07138903714608 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="2_1484250" type="shape" x="-7931.723791543379" y="79151.37691564398" r="51.66382119010378" s="1.5052313704098252" class="line3">
+      <geom type="line">
+        <sp>-50.9417524362191 0</sp>
+        <ep>50.9417524362191 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="3_1484250" type="shape" x="-8388.289040144553" y="79515.74913747286" r="51.6566796411261" s="1.5052313704098261" class="line3">
+      <geom type="line">
+        <sp>-52.21258986655001 0</sp>
+        <ep>52.21258986655001 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="4_1484250" type="shape" x="-8262.530340189898" y="79673.69795647789" r="-38.33617880989623" s="1.1322602740303924" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="5_1484250" type="shape" x="-7804.768683554295" y="79311.83109565046" r="-38.33617880989623" s="1.1322602740303924" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="6_1484250" type="shape" x="-8244.49196718319" y="79226.72158933737" r="51.66382119010378" s="1.5052313704098252" class="line3">
+      <geom type="line">
+        <sp>-35.89413208745464 0</sp>
+        <ep>35.894132087454636 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="7_1484250" type="persistentgroup" x="-8162.015456170833" y="79332.5232163757" r="-38.33617880989621" s="1.4207444231982125">
+      <m o="1_1484250"/>
+      <m o="2_1484250"/>
+      <m o="3_1484250"/>
+      <m o="6_1484250"/>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="8_1484250" type="shape" x="-8367.214666516822" y="79071.7340748275" r="-38.33617880989624" s="1.3085259237141496" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="9_1484250" type="label" x="-8386.681402906019" y="79063.34081131461" r="-38.33617880989621" s="2.0062053609687163" class="strong">
+      <textfield>
+        <x>-155.7</x>
+        <y>-33</y>
+        <text><![CDATA[Process Incoming Data]]></text>
+        <w>311.4</w>
+        <h>66</h>
+        <annotations>r0-18 { align: center; }
+r18-22 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="10_1484250" type="label" x="-8266.294142658919" y="79671.07969617494" r="-38.33617880989621" s="1.4899501004167648" class="head">
+      <textfield>
+        <x>-184.85</x>
+        <y>-34.65</y>
+        <text><![CDATA[7 Segment Display Function]]></text>
+        <w>369.75</w>
+        <h>69.3</h>
+        <annotations>r0-19 { align: center; }
+r19-27 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="11_1484250" type="label" x="-7810.034155301391" y="79306.34385995269" r="-38.33617880989621" s="1.4899501004167648" class="head">
+      <textfield>
+        <x>-144.55</x>
+        <y>-34.65</y>
+        <text><![CDATA[SSR Control Function]]></text>
+        <w>289.1</w>
+        <h>69.3</h>
+        <annotations>r0-13 { align: center; }
+r13-21 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="13_1484250" type="button" x="-10674.88834563448" y="82545.54425685553" r="-38.33617880989622" s="1.3319657808909224" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>933.7278106508876</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="14_1484250" type="shape" x="-10684.4608771955" y="82539.7571044453" r="-38.33617880989623" s="1.2939471847063653" class="line3">
+      <geom type="line">
+        <sp>-296.8194563581725 0</sp>
+        <ep>296.8194563581725 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="15_1484250" type="shape" x="-10343.24285005585" y="82352.66343967846" r="51.98627186526709" s="1.293947184706365" class="line3">
+      <geom type="line">
+        <sp>-50.153834138844886 0</sp>
+        <ep>50.153834138844886 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="16_1484250" type="shape" x="-10944.60671256539" y="82832.14954528362" r="51.66382119010377" s="1.2939471847063655" class="line3">
+      <geom type="line">
+        <sp>-51.88332034123467 0</sp>
+        <ep>51.88332034123468 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="17_1484250" type="shape" x="-10832.933776856342" y="82964.72499591939" r="-38.33617880989625" s="0.9733287670835538" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="18_1484250" type="shape" x="-10667.947350830149" y="82553.8748117445" r="51.66382119010377" s="1.2939471847063655" class="line3">
+      <geom type="line">
+        <sp>-86.97617302548616 0</sp>
+        <ep>86.97617302548616 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="19_1484250" type="persistentgroup" x="-10644.773051843185" y="82593.1841658823" r="-38.33617880989622" s="1.3445486495235408">
+      <m o="14_1484250"/>
+      <m o="15_1484250"/>
+      <m o="16_1484250"/>
+      <m o="18_1484250"/>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="20_1484250" type="shape" x="-10526.69962747491" y="82722.60776890081" r="-38.33617880989625" s="0.9733287670835538" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="21_1484250" type="shape" x="-10820.618982140424" y="82375.89529891661" r="-38.33617880989621" s="1.1248526096318514" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="22_1484250" type="shape" x="-10235.029673461591" y="82490.12111260576" r="-38.33617880989625" s="0.9733287670835538" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="23_1484250" type="label" x="-10828.81938224146" y="82367.86717550748" r="-38.33617880989621" s="1.307935000488343" class="head">
+      <textfield>
+        <x>-82.3</x>
+        <y>-50.95</y>
+        <text><![CDATA[7 Segment Display Function]]></text>
+        <w>164.6</w>
+        <h>101.95</h>
+        <annotations>r0-11 { align: center; }
+r11-20 { align: center; }
+r20-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="24_1484250" type="label" x="-10843.37401765469" y="82970.22623615497" r="-38.33617880989621" s="1.83110900068368" class="head">
+      <textfield autoSize="true">
+        <x>-69.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[Device 1]]></text>
+        <w>139.15</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="25_1484250" type="label" x="-10526.577433427025" y="82719.71040423597" r="-38.33617880989621" s="1.83110900068368" class="head">
+      <textfield autoSize="true">
+        <x>-69.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[Device 2]]></text>
+        <w>139.15</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="26_1484250" type="label" x="-10230.336759962893" y="82483.72526489497" r="-38.33617880989621" s="1.83110900068368" class="head">
+      <textfield autoSize="true">
+        <x>-69.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[Device 3]]></text>
+        <w>139.15</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="27_1484250" type="button" x="-8829.133937182809" y="81123.97218210618" r="-38.33617880989622" s="1.3319657808909224" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>933.7278106508876</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="28_1484250" type="shape" x="-8838.706468743765" y="81118.18502969609" r="-38.33617880989623" s="1.2939471847063653" class="line3">
+      <geom type="line">
+        <sp>-296.8194563581725 0</sp>
+        <ep>296.8194563581725 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="29_1484250" type="shape" x="-8497.488441604019" y="80931.09136492919" r="51.98627186526709" s="1.293947184706365" class="line3">
+      <geom type="line">
+        <sp>-50.153834138844886 0</sp>
+        <ep>50.153834138844886 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="30_1484250" type="shape" x="-9098.852304113629" y="81410.57747053434" r="51.66382119010377" s="1.2939471847063655" class="line3">
+      <geom type="line">
+        <sp>-51.88332034123467 0</sp>
+        <ep>51.88332034123468 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="31_1484250" type="shape" x="-8987.179368404517" y="81543.15292117013" r="-38.33617880989621" s="0.973328767083554" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="32_1484250" type="shape" x="-8822.192942378357" y="81132.3027369952" r="51.66382119010377" s="1.2939471847063655" class="line3">
+      <geom type="line">
+        <sp>-86.97617302548616 0</sp>
+        <ep>86.97617302548616 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="33_1484250" type="persistentgroup" x="-8799.01864339139" y="81171.612091133" r="-38.33617880989622" s="1.3445486495235408">
+      <m o="28_1484250"/>
+      <m o="29_1484250"/>
+      <m o="30_1484250"/>
+      <m o="32_1484250"/>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="34_1484250" type="shape" x="-8716.203048010068" y="81266.32767975092" r="-38.33617880989622" s="0.9526959369517136" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-56.73950805692626"/>
+        <p x="168.49976369687545" y="-56.73950805692626"/>
+        <p x="168.49976369687545" y="56.73950805692626"/>
+        <p x="-168.49976369687545" y="56.73950805692626"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="35_1484250" type="shape" x="-8970.84709825618" y="80944.32025129542" r="-38.33617880989621" s="1.1248526096318514" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="36_1484250" type="shape" x="-8389.27526500997" y="81068.54903785646" r="-38.33617880989621" s="0.973328767083554" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="37_1484250" type="label" x="-8985.377039207478" y="80911.38728043465" r="-38.33617880989621" s="1.307935000488343" class="head">
+      <textfield>
+        <x>-82.3</x>
+        <y>-34.65</y>
+        <text><![CDATA[SSR ControlFunction]]></text>
+        <w>164.6</w>
+        <h>69.3</h>
+        <annotations>r0-12 { align: center; }
+r12-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="38_1484250" type="label" x="-8995.959380241073" y="81548.93637419614" r="-38.33617880989621" s="1.83110900068368" class="head">
+      <textfield>
+        <x>-69.55</x>
+        <y>-34.65</y>
+        <text><![CDATA[Device 1ON/OFF]]></text>
+        <w>139.15</w>
+        <h>69.3</h>
+        <annotations>r0-9 { align: center; }
+r9-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="39_1484250" type="label" x="-8714.557789080614" y="81273.86006072268" r="-38.33617880989622" s="2.49997137930826" class="head">
+      <textfield autoSize="true">
+        <x>-69.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[Device 2]]></text>
+        <w>139.15</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="40_1484250" type="label" x="-8379.144517606012" y="81066.84902069325" r="-38.33617880989621" s="1.83110900068368" class="head">
+      <textfield>
+        <x>-69.55</x>
+        <y>-34.65</y>
+        <text><![CDATA[Device 3ON/OFF]]></text>
+        <w>139.15</w>
+        <h>69.3</h>
+        <annotations>r0-9 { align: center; }
+r9-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="43_1484250" type="shape" x="-8730.283088894528" y="81421.16348234234" r="-38.33617880989622" s="0.9526959369517136" class="poly3">
+      <geom type="poly">
+        <p x="-88.99566834601762" y="-45.76172485380126"/>
+        <p x="88.99566834601762" y="-45.76172485380126"/>
+        <p x="88.99566834601762" y="45.76172485380126"/>
+        <p x="-88.99566834601762" y="45.76172485380126"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="44_1484250" type="label" x="-8726.23850197157" y="81418.82734792886" r="-38.33617880989621" s="1.83110900068368" class="strong">
+      <textfield>
+        <x>-60.5</x>
+        <y>-17.5</y>
+        <text><![CDATA[ON/OFF]]></text>
+        <w>121.05</w>
+        <h>35</h>
+        <annotations>r0-6 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="45_1484250" type="shape" x="-8567.64080123418" y="81292.54950723345" r="-38.33617880989622" s="0.9526959369517136" class="poly3">
+      <geom type="poly">
+        <p x="-88.99566834601762" y="-45.76172485380126"/>
+        <p x="88.99566834601762" y="-45.76172485380126"/>
+        <p x="88.99566834601762" y="45.76172485380126"/>
+        <p x="-88.99566834601762" y="45.76172485380126"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart2</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="46_1484250" type="label" x="-8570.448498787357" y="81295.63200998826" r="-38.33617880989622" s="1.83110900068368" class="strong">
+      <textfield autoSize="true">
+        <x>-35.7</x>
+        <y>-17.5</y>
+        <text><![CDATA[SPEED]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="47_1484250" type="shape" x="-9749.25912316563" y="80838.16062448743" r="-38.33617880989627" s="2.6865503359799443" class="line3">
+      <geom type="line">
+        <sp>622.158444420777 0</sp>
+        <ep>-622.158444420777 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="49_1484250" type="shape" x="-7591.802944843701" y="79564.32495899979" r="-128.33617880989624" s="2.686550335979944" class="line3">
+      <geom type="line">
+        <sp>-69.3834883181748 0</sp>
+        <ep>69.3834883181748 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="50_1484250" type="shape" x="-10948.902334181808" y="82015.82965139922" r="51.66382119010378" s="2.6865503359799443" class="line3">
+      <geom type="arrow">
+        <sp>-66.8655728042474 0</sp>
+        <ep>66.8655728042474 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="51_1484250" type="shape" x="-7988.012685863078" y="80115.28027847542" r="-38.33617880989625" s="2.686550335979944" class="line3">
+      <geom type="arrow">
+        <sp>242.8856143281188 0</sp>
+        <ep>-242.8856143281188 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="53_1484250" type="button" x="36423.42932187748" y="41217.57254710795" r="-5.587636598615262e-15" s="31.298624514362572" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="54_1484250" type="label" x="34879.54516979862" y="37809.75388187988" r="-6.1402599984783056e-15" s="28.481748308069943" class="head">
+      <textfield autoSize="true">
+        <x>-153.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Intermediate Program]]></text>
+        <w>307.55</w>
+        <h>36.65</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="56_1484250" type="label" x="36403.04262477439" y="41251.70963230288" r="0" s="23.53863496534706" class="strong">
+      <textfield>
+        <x>-196.75</x>
+        <y>-110.5</y>
+        <text><![CDATA[PythonCritical ProgramConnects Driver to PeripheralsData ExchangeFiltering and ProcessingSocketsMulti-Threading and Child Process]]></text>
+        <annotations>r0-7 { bullet: true; }
+r0-7 { align: left; }
+r0-7 { blockIndent: 36; }
+r7-24 { bullet: true; }
+r7-24 { align: left; }
+r7-24 { blockIndent: 36; }
+r24-55 { bullet: true; }
+r24-55 { align: left; }
+r24-55 { blockIndent: 36; }
+r55-69 { bullet: true; }
+r55-69 { align: left; }
+r55-69 { blockIndent: 36; }
+r69-94 { bullet: true; }
+r69-94 { align: left; }
+r69-94 { blockIndent: 36; }
+r94-102 { bullet: true; }
+r94-102 { align: left; }
+r94-102 { blockIndent: 36; }
+r102-135 { bullet: true; }
+r102-135 { align: left; }
+r102-135 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="57_1484250" type="button" x="61285.26330672965" y="39621.06615466664" r="-5.587636598615262e-15" s="31.298624514362572" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="58_1484250" type="label" x="60783.14802145201" y="36047.24976231466" r="4.298181998934814e-15" s="20.344105934335676" class="head">
+      <textfield autoSize="true">
+        <x>-247.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[Architecture of Intermediate Program]]></text>
+        <w>494.8</w>
+        <h>36.65</h>
+        <annotations>r0-36 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="60_1484250" type="shape" x="60619.30818148094" y="39486.81555308034" r="0" s="5.571093622064592" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="61_1484250" type="label" x="60618.631856032014" y="39518.09560508721" r="4.298181998934814e-15" s="20.344105934335676" class="strong">
+      <textfield autoSize="true">
+        <x>-45.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Program]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="62_1484250" type="shape" x="59349.044210847416" y="37911.428063318664" r="40.70261333605827" s="6.572647704539317" class="line3">
+      <geom type="arrow">
+        <sp>-142.86045135529395 0</sp>
+        <ep>142.86045135529395 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="63_1484250" type="shape" x="58383.95221596397" y="39215.63341778372" r="4.69248764360864" s="6.572647704539321" class="line3">
+      <geom type="arrow">
+        <sp>-172.6790587779303 0</sp>
+        <ep>172.6790587779303 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="64_1484250" type="shape" x="58863.50310031799" y="40747.13457656097" r="-39.208127265409416" s="6.572647704539317" class="line3">
+      <geom type="arrow">
+        <sp>-128.07550828967462 0</sp>
+        <ep>128.07550828967462 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="65_1484250" type="shape" x="60741.10621588122" y="40973.09921950101" r="80.59575762967144" s="6.572647704539323" class="line3">
+      <geom type="arrow">
+        <sp>98.53897887607148 0</sp>
+        <ep>-98.53897887607148 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="66_1484250" type="label" x="57989.97814226354" y="37459.35058702876" r="-4.848405641853474e-15" s="18.035345301255877" class="strong">
+      <textfield autoSize="true">
+        <x>-31.65</x>
+        <y>-17.5</y>
+        <text><![CDATA[App 1]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="67_1484250" type="label" x="57083.760537439804" y="38793.30016579303" r="-4.848405641853474e-15" s="18.035345301255877" class="strong">
+      <textfield autoSize="true">
+        <x>-31.65</x>
+        <y>-17.5</y>
+        <text><![CDATA[App 2]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="68_1484250" type="label" x="57454.89412746727" y="41434.5201247079" r="-4.848405641853474e-15" s="18.035345301255877" class="strong">
+      <textfield autoSize="true">
+        <x>-40.6</x>
+        <y>-17.5</y>
+        <text><![CDATA[Camera]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="69_1484250" type="label" x="61207.2604383017" y="41776.45899952889" r="-4.848405641853474e-15" s="18.035345301255877" class="strong">
+      <textfield autoSize="true">
+        <x>-36.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[Switch]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="75_1484250" type="shape" x="61061.28686226965" y="37619.762791221954" r="0" s="2.8063929510610963" class="poly2">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect4</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="76_1484250" type="shape" x="62340.3310068532" y="40886.132906641615" r="0" s="2.8063929510610963" class="poly2">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect4</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="77_1484250" type="shape" x="59701.7599892795" y="41937.14265407229" r="0" s="2.8063929510610963" class="poly2">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect4</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="78_1484250" type="shape" x="58166.10669733136" y="39836.25036829222" r="0" s="2.8063929510610963" class="poly2">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect4</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="84_1484250" type="shape" x="59007.528392602624" y="39667.288878727675" r="-37.61190866048789" s="4.694748360385225" class="line3">
+      <geom type="arrow">
+        <sp>68.63262159587707 -39.57678380906539</sp>
+        <ep>-68.63262159587704 -39.57678380906542</ep>
+        <b>-79.15356761813081</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="85_1484250" type="shape" x="60022.94523791787" y="37771.31582075466" r="-10.382923208534955" s="4.6947483603852245" class="line3">
+      <geom type="arrow">
+        <sp>-99.42372729083512 25.72279586581396</sp>
+        <ep>99.42372729083512 25.72279586581396</ep>
+        <b>-51.44559173162793</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="86_1484250" type="shape" x="61259.620911008606" y="40988.61790509315" r="19.063161303794665" s="4.694748360385225" class="line3">
+      <geom type="arrow">
+        <sp>-101.96401977529923 -25.370880137504685</sp>
+        <ep>101.96401977529923 -25.370880137504685</ep>
+        <b>50.74176027500937</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="87_1484250" type="shape" x="59032.300253044654" y="41188.08698630849" r="-87.01600595006892" s="4.69474836038523" class="line3">
+      <geom type="arrow">
+        <sp>116.30247276816635 22.617392486495163</sp>
+        <ep>-116.30247276816635 22.617392486495103</ep>
+        <b>45.23478497299027</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="91_1484250" type="label" x="61058.84758181774" y="37585.38291424144" r="0" s="4.4186595988076895" class="strong">
+      <textfield autoSize="true">
+        <x>-98.05</x>
+        <y>-33</y>
+        <text><![CDATA[Child Process On    Parallel Threads]]></text>
+        <annotations>r0-37 { color: #000; }
+r0-17 { align: left; }
+r17-37 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="92_1484250" type="label" x="58208.32067742721" y="39865.50144395274" r="0" s="4.4186595988076895" class="strong">
+      <textfield autoSize="true">
+        <x>-98.05</x>
+        <y>-33</y>
+        <text><![CDATA[Child Process On    Parallel Threads]]></text>
+        <annotations>r0-37 { color: #000; }
+r0-17 { align: left; }
+r17-37 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="93_1484250" type="label" x="62382.37590558661" y="40915.271261393966" r="0" s="4.4186595988076895" class="strong">
+      <textfield autoSize="true">
+        <x>-98.05</x>
+        <y>-33</y>
+        <text><![CDATA[Child Process On    Parallel Threads]]></text>
+        <annotations>r0-37 { color: #000; }
+r0-17 { align: left; }
+r17-37 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="94_1484250" type="label" x="59744.14305073737" y="41966.39372973274" r="0" s="4.4186595988076895" class="strong">
+      <textfield autoSize="true">
+        <x>-98.05</x>
+        <y>-33</y>
+        <text><![CDATA[Child Process On    Parallel Threads]]></text>
+        <annotations>r0-37 { color: #000; }
+r0-17 { align: left; }
+r17-37 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="95_1484250" type="button" x="64992.99213794355" y="40137.32791391509" r="0" s="5.239690448108855" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>719.424171589603</w>
+        <h>539.5681286922023</h>
+      </size>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="96_1484250" type="shape" x="65036.64746412699" y="40105.04990958272" r="-0.06858825900092917" s="4.97129321045212" class="line3">
+      <geom type="line">
+        <sp>-194.07138903714608 0</sp>
+        <ep>194.07138903714608 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="97_1484250" type="shape" x="66001.29543885686" y="40372.09855550055" r="90" s="4.971293210452116" class="line3">
+      <geom type="line">
+        <sp>-50.9417524362191 0</sp>
+        <ep>50.9417524362191 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="98_1484250" type="shape" x="64072.09060495049" y="40380.72613106596" r="89.99285845102227" s="4.971293210452118" class="line3">
+      <geom type="line">
+        <sp>-52.21258986655001 0</sp>
+        <ep>52.21258986655001 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="99_1484250" type="shape" x="64074.30869634253" y="41047.52861826613" r="-5.845895262253924e-15" s="3.739490103251971" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="100_1484250" type="shape" x="66001.48051100454" y="41047.84227668081" r="-5.845895262253924e-15" s="3.739490103251971" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="101_1484250" type="shape" x="65036.69905230529" y="39926.557881104374" r="90" s="4.971293210452116" class="line3">
+      <geom type="line">
+        <sp>-35.89413208745464 0</sp>
+        <ep>35.894132087454636 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="102_1484250" type="persistentgroup" x="65036.64746412699" y="40194.15928394441" r="0" s="4.692260102784049">
+      <m o="96_1484250"/>
+      <m o="97_1484250"/>
+      <m o="98_1484250"/>
+      <m o="101_1484250"/>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="103_1484250" type="shape" x="65036.27950447665" y="39273.64630863333" r="-1.5175262908368384e-14" s="4.321638631866687" class="poly3">
+      <geom type="poly">
+        <p x="-168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="-108.49984125567904"/>
+        <p x="168.49976369687545" y="108.49984125567904"/>
+        <p x="-168.49976369687545" y="108.49984125567904"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>chart1</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="104_1484250" type="label" x="65031.86341720919" y="39258.856140750846" r="-3.2125666855641904e-15" s="6.804735782163841" class="head">
+      <textfield>
+        <x>-110.15</x>
+        <y>-50.95</y>
+        <text><![CDATA[Processes DataFilters Data]]></text>
+        <w>220.3</w>
+        <h>101.95</h>
+        <annotations>r0-15 { align: center; }
+r16-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="105_1484250" type="label" x="64068.5679703461" y="41030.35930859761" r="-7.067646708241218e-15" s="6.186123438330765" class="head">
+      <textfield>
+        <x>-102.8</x>
+        <y>-50.95</y>
+        <text><![CDATA[UPDATE DATA ON ALL THREADS]]></text>
+        <w>205.6</w>
+        <h>101.95</h>
+        <annotations>r0-13 { align: center; }
+r13-17 { align: center; }
+r17-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="106_1484250" type="label" x="66006.07129978738" y="41030.302948143486" r="-7.067646708241218e-15" s="6.186123438330765" class="head">
+      <textfield>
+        <x>-106.95</x>
+        <y>-50.95</y>
+        <text><![CDATA[SEND DATA TO DRIVER PROGRAM]]></text>
+        <w>213.9</w>
+        <h>101.95</h>
+        <annotations>r0-14 { align: center; }
+r14-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="107_1484250" type="shape" x="62974.07531620265" y="39327.44828207975" r="0" s="9.20170678635504" class="line4">
+      <geom type="arrow">
+        <sp>-141.27390945831203 0</sp>
+        <ep>141.27390945831203 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="108_1484250" type="shape" x="62967.75236256497" y="41656.244915183626" r="4.692487643608617" s="6.5726477045393175" class="line5">
+      <geom type="arrow">
+        <sp>100.68059537140716 -34.54216992696101</sp>
+        <ep>-100.68059537140712 -34.54216992696105</ep>
+        <b>-69.08433985392206</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="109_1484250" type="shape" x="62105.798052731094" y="42454.333579046055" r="-15.000000000000037" s="6.572647704539316" class="line5">
+      <geom type="arrow">
+        <sp>296.1275527689541 -69.81782471881938</sp>
+        <ep>-296.12755276895405 -69.81782471881952</ep>
+        <b>-139.6356494376389</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="110_1484250" type="shape" x="62972.58626215123" y="38816.355491103765" r="56.65424425787159" s="6.572647704539316" class="line5">
+      <geom type="arrow">
+        <sp>274.58006357061527 57.67070565808519</sp>
+        <ep>-274.58006357061527 57.67070565808507</ep>
+        <b>115.34141131617024</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="111_1484250" type="shape" x="60904.75249190138" y="42194.06966508328" r="10.365987897627855" s="6.572647704539319" class="line5">
+      <geom type="arrow">
+        <sp>483.72430925379945 -196.7969908850955</sp>
+        <ep>-483.7243092537993 -196.79699088509577</ep>
+        <b>-393.5939817701913</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="112_1484250" type="button" x="33108.4742612155" y="92851.6551254205" r="-4.922602632728681e-15" s="17.76350366572522" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="113_1484250" type="label" x="31839.36021959579" y="90902.12585084612" r="-3.786617409791292e-15" s="11.546277382721396" class="head">
+      <textfield autoSize="true">
+        <x>-142.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[General Information]]></text>
+        <w>285.1</w>
+        <h>36.65</h>
+        <annotations>r8-19 { color: #318bff; }
+r0-19 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="114_1484250" type="labelwithplaceholder" x="33108.4742612155" y="92105.58797146005" r="0" s="7.993576649576348" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+      <layout/>
+    </object>
+    <object id="115_1484250" type="label" x="32804.927606144316" y="93114.7336294974" r="-3.786617409791292e-15" s="11.546277382721396" class="strong">
+      <textfield autoSize="true">
+        <x>-152.15</x>
+        <y>-157</y>
+        <text><![CDATA[Languages UsedC++JavaPythonOpenCVAndroid ApiCommunication    TCP/IP Custom ProtocolData Protocol   A B CD]]></text>
+        <annotations>r0-14 { color: #322c69; }
+ r50-63 { color: #322c69; }
+ r91-104 { color: #322c69; }
+ r0-15 { align: left; }
+r15-19 { bullet: true; }
+r15-19 { align: left; }
+r15-19 { blockIndent: 36; }
+r19-24 { bullet: true; }
+r19-24 { align: left; }
+r19-24 { blockIndent: 36; }
+r24-31 { bullet: true; }
+r24-31 { align: left; }
+r24-31 { blockIndent: 36; }
+r31-38 { bullet: true; }
+r31-38 { align: left; }
+r31-38 { blockIndent: 36; }
+r38-50 { bullet: true; }
+r38-50 { align: left; }
+r38-50 { blockIndent: 36; }
+r50-65 { align: left; }
+r65-91 { bullet: true; }
+r65-91 { align: left; }
+r65-91 { blockIndent: 36; }
+r91-105 { align: left; }
+r105-114 { bullet: true; }
+r105-114 { align: left; }
+r105-114 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="116_1484250" type="label" x="33512.07147278516" y="94730.37450127072" r="-4.339591354667557e-15" s="5.037494476140788" class="strong">
+      <textfield>
+        <x>-109.5</x>
+        <y>-48.5</y>
+        <text><![CDATA[A - Device  NumberB - Device StateCD - Device Intensity]]></text>
+        <annotations>r0-19 { align: left; }
+r19-36 { align: left; }
+r36-57 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="117_1484250" type="button" x="-50176.66124652321" y="43651.24548389496" r="0" s="74.55566682506387" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="118_1484250" type="label" x="-53808.025419137666" y="36436.75686036775" r="-5.155387921453777e-15" s="67.8456568108081" class="head">
+      <textfield autoSize="true">
+        <x>-132</x>
+        <y>-18.3</y>
+        <text><![CDATA[Mobile Application]]></text>
+        <w>264.05</w>
+        <h>36.65</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="120_1484250" type="label" x="-49990.90094658081" y="43871.2079958157" r="-4.848405641853474e-15" s="36.07069060251175" class="strong">
+      <textfield autoSize="true">
+        <x>-260.9</x>
+        <y>-157</y>
+        <text><![CDATA[General Information    Name                     : HOME    Platform                :  Android    OS Version             : Minimum 4.0 (ICS)    Developed In         : Eclipse IDE    Permissions           : Internet     Languages Used    : Java , Android API, XML    Devices tested on  : HTC Desire X , HTC Desire S    Application Size     : 2.4 MB]]></text>
+        <annotations>r0-19 { color: #194a99; }
+ r19-20 { color: #322c69; }
+ r25-29 { color: #640f1e; }
+ r52-56 { color: #322c69; }
+ r61-69 { color: #640f1e; }
+ r88-95 { color: #322c69; }
+ r100-110 { color: #640f1e; }
+ r125-142 { color: #322c69; }
+ r147-159 { color: #640f1e; }
+ r170-181 { color: #322c69; }
+ r186-197 { color: #640f1e; }
+ r210-218 { color: #322c69; }
+ r224-238 { color: #640f1e; }
+ r244-267 { color: #322c69; }
+ r272-289 { color: #640f1e; }
+ r293-320 { color: #322c69; }
+ r325-341 { color: #640f1e; }
+ r348-354 { color: #322c69; }
+r0-20 { align: left; }
+r21-57 { align: left; }
+r57-96 { align: left; }
+r96-143 { align: left; }
+r143-182 { align: left; }
+r182-220 { align: left; }
+r220-268 { align: left; }
+r268-321 { align: left; }
+r321-354 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="121_1484250" type="button" x="-189515.482138201" y="-184057.78041091835" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="124_1484250" type="image" x="-197733.850829259" y="-184056.87864365336" r="0" s="47.91093987226726">
+      <source w="269" h="448">
+        661191755.png
+        <url>661191755.png</url>
+      </source>
+      <resource>
+        <id>661191755</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/f/84d628fe15987fc7ad8e25e13db7bdfa9f2d6.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-00.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="131_1484250" type="button" x="-180413.9728471318" y="-140716.76033333933" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="133_1484250" type="button" x="-119621.4226123413" y="-170452.31101032245" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="135_1484250" type="button" x="-44172.38461568866" y="-148793.43574113303" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="137_1484250" type="button" x="4866.405296139522" y="-192024.85394784427" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>409.4549735832731</w>
+        <h>307.0912301874548</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="139_1484250" type="button" x="-379402.6217560453" y="-198130.76359154627" r="16.763562851010086" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="141_1484250" type="button" x="-206614.3121585942" y="-355562.49336840864" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="147_1484250" type="button" x="-299056.1203560469" y="-248130.2711265309" r="-29.39946260174373" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>398.4268296515331</w>
+        <h>298.8201222386498</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="164_1484250" type="image" x="-389109.0452623311" y="-195646.8910034881" r="16.763562851010086" s="38.81860017718527">
+      <source w="269" h="448">
+        661199795.png
+        <url>661199795.png</url>
+        <mask x="0" y="113" w="269" h="245"/>
+      </source>
+      <resource>
+        <id>661199795</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/d/b4446b67d54b8d9f81d22a1a3b99cacc1a2b8.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-20-46.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="165_1484250" type="image" x="-128299.72585624368" y="-170452.705869608" r="-3.594049066733396e-15" s="48.659697342897175">
+      <source w="269" h="448">
+        661200011.png
+        <url>661200011.png</url>
+      </source>
+      <resource>
+        <id>661200011</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/f/4c1f934a05de9b28e8e84c7197f3c02656ac1.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-34.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="168_1484250" type="image" x="-3662.899766366456" y="-191605.66696964015" r="-3.616627518841688e-15" s="48.35591691753214">
+      <source w="269" h="448">
+        661200235.png
+        <url>661200235.png</url>
+        <mask x="0" y="128" w="269" h="216"/>
+      </source>
+      <resource>
+        <id>661200235</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/2/6/adcd0627cf338b15062664284d7a364de51af.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-55.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="170_1484250" type="image" x="-215095.27359447285" y="-355565.2202612725" r="0" s="47.4819585434249">
+      <source w="269" h="448">
+        661200247.png
+        <url>661200247.png</url>
+      </source>
+      <resource>
+        <id>661200247</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/0/3/8c6fe9551468004ea121f3c1f65c18157708e.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-20-23.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="166_1484250" type="image" x="-188763.2906910711" y="-140717.20879759034" r="-3.828736980233306e-15" s="45.67703154477652">
+      <source w="269" h="448">
+        661200083.png
+        <url>661200083.png</url>
+      </source>
+      <resource>
+        <id>661200083</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/c/bca341e2531019e00b0ff38463bef03bdda35.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-25.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="172_1484250" type="image" x="-181407.2417743887" y="-177323.32611497532" r="0" s="46.45111291827734">
+      <source w="269" h="448">
+        661200259.png
+        <url>661200259.png</url>
+        <mask x="0" y="150" w="269" h="170"/>
+      </source>
+      <resource>
+        <id>661200259</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/7/2/ea3c4124d914ab0b462b7f2166c4eb1e0e605.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-08.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="169_1484250" type="image" x="-385993.3748060671" y="-205993.6412988303" r="16.763562851010093" s="38.446752181297">
+      <source w="269" h="448">
+        661200231.png
+        <url>661200231.png</url>
+        <mask x="3" y="109" w="266" h="246"/>
+      </source>
+      <resource>
+        <id>661200231</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/a/b6f1ff969dfeb0e8a86c59c75cc3e20c35dca.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-20-38.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="176_1484250" type="image" x="-371085.7670024548" y="-195629.85407684237" r="16.763562851010082" s="47.02036844656571">
+      <source w="269" h="448">
+        661200331.png
+        <url>661200331.png</url>
+      </source>
+      <resource>
+        <id>661200331</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/a/a29d7e1166fd381e96d6d5227fed9f4499609.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-20-14.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="174_1484250" type="image" x="-52825.57420986905" y="-148793.71754340333" r="0" s="46.23841072201602">
+      <source w="269" h="448">
+        661200289.png
+        <url>661200289.png</url>
+      </source>
+      <resource>
+        <id>661200289</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/2/4c4f6fcc40c15c0ee64824a19ddbd6368cd8d.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-41.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="173_1484250" type="image" x="-306354.2969251425" y="-244019.7372243962" r="-29.399462601743718" s="45.43037623428443">
+      <source w="269" h="448">
+        661200269.png
+        <url>661200269.png</url>
+      </source>
+      <resource>
+        <id>661200269</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/d/0af708069800fc33479d7ac3a9ae88d8f4259.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-21-28.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="175_1484250" type="image" x="-198658.93585843843" y="-355568.3253287528" r="-3.553586584616617e-15" s="49.213755077713074">
+      <source w="269" h="448">
+        661200291.png
+        <url>661200291.png</url>
+        <mask x="0" y="49" w="269" h="372"/>
+      </source>
+      <resource>
+        <id>661200291</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/2/06db0c01d9968c40ce98df08e6709979ad5d8.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-23-04.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="177_1484250" type="label" x="-182407.35803179757" y="-188715.52105587572" r="-4.848405641853474e-15" s="72.1413812050235" class="strong">
+      <textfield>
+        <x>-92.45</x>
+        <y>-79.5</y>
+        <text><![CDATA[Login Screen    Verifies the      Credentials of        the user.]]></text>
+        <annotations>r0-12 { color: #322c69; }
+ r0-13 { align: left; }
+r14-32 { align: left; }
+r32-53 { align: left; }
+r53-69 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1502035" type="label" x="-174234.4931955411" y="-149538.24182339926" r="-5.370761831636985e-15" s="65.124965621298" class="head">
+      <textfield autoSize="true">
+        <x>-94.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[Navigate Home]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="1_1502035" type="label" x="-173953.06030839184" y="-141176.9521524043" r="-5.370761831636985e-15" s="65.124965621298" class="strong">
+      <textfield autoSize="true">
+        <x>-89.95</x>
+        <y>-33</y>
+        <text><![CDATA[- Home Structure- Room Wise]]></text>
+        <annotations>r0-17 { align: left; }
+r17-28 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1491121" type="label" x="-112107.73689000208" y="-178123.109319607" r="-3.7595332821458886e-15" s="93.03566517328292" class="head">
+      <textfield autoSize="true">
+        <x>-67.1</x>
+        <y>-34.65</y>
+        <text><![CDATA[BEDROOM      - Access]]></text>
+        <annotations>r16-22 { color: #35afa9; }
+r0-8 { align: left; }
+r8-22 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="1_1491121" type="label" x="-112760.02123932724" y="-173223.29100648034" r="0" s="57.76782831108337" class="strong">
+      <textfield autoSize="true">
+        <x>-113.45</x>
+        <y>-17.5</y>
+        <text><![CDATA[Login with Details]]></text>
+        <annotations>r0-18 { bullet: true; }
+r0-18 { align: left; }
+r0-18 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="2_1491121" type="label" x="-112378.19640267272" y="-167377.87774600365" r="0" s="57.76782831108337" class="strong">
+      <textfield>
+        <x>-99.8</x>
+        <y>-48.5</y>
+        <text><![CDATA[System will :Verify the dataConnect to port]]></text>
+        <annotations>r0-14 { align: left; }
+r14-30 { bullet: true; }
+r14-30 { align: left; }
+r14-30 { blockIndent: 36; }
+r30-45 { bullet: true; }
+r30-45 { align: left; }
+r30-45 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="3_1491121" type="label" x="-36688.91771262668" y="-156450.38836764905" r="-3.7595332821458886e-15" s="93.03566517328292" class="head">
+      <textfield autoSize="true">
+        <x>-63.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[BEDROOM]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="4_1491121" type="label" x="-35443.37040190528" y="-145475.21229058292" r="0" s="63.54461114219171" class="strong">
+      <textfield>
+        <x>-127.85</x>
+        <y>-110.5</y>
+        <text><![CDATA[Custom PictureDisplays devicesCurrent Statuswith POWER UP and        SHUTDOWN ALL]]></text>
+        <annotations>r0-15 { bullet: true; }
+r0-15 { align: left; }
+r0-15 { blockIndent: 36; }
+r15-32 { bullet: true; }
+r15-32 { align: left; }
+r15-32 { blockIndent: 36; }
+r32-47 { bullet: true; }
+r32-47 { align: left; }
+r32-47 { blockIndent: 36; }
+r49-68 { align: left; }
+r68-87 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="5_1491121" type="label" x="4864.420951816338" y="-201371.3737543883" r="-3.7595332821458886e-15" s="93.03566517328292" class="head">
+      <textfield autoSize="true">
+        <x>-125.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Device Control Panel]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="6_1491121" type="label" x="11914.79322337726" y="-190013.47915829084" r="-6.66024254085165e-15" s="52.51620755553036" class="head">
+      <textfield>
+        <x>-148.4</x>
+        <y>-116.25</y>
+        <text><![CDATA[Displays on choosing       a deviceDisplay Current informationProvides Control options for different modes of control.]]></text>
+        <w>296.8</w>
+        <h>232.55</h>
+        <annotations>r0-22 { bullet: true; }
+r0-22 { align: left; }
+r0-22 { blockIndent: 36; }
+r22-37 { align: left; }
+r37-65 { bullet: true; }
+r37-65 { align: left; }
+r37-65 { blockIndent: 36; }
+r65-105 { bullet: true; }
+r65-105 { align: left; }
+r65-105 { blockIndent: 36; }
+r105-122 { bullet: true; }
+r105-122 { align: left; }
+r105-122 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="7_1491121" type="button" x="-74880.82151027543" y="-213125.18921209752" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="8_1491121" type="label" x="-74976.57294405687" y="-222512.58920921935" r="0" s="55.88040307057152" class="head">
+      <textfield autoSize="true">
+        <x>-246.95</x>
+        <y>-18.3</y>
+        <text><![CDATA[DEVICE CONTROL PANEL ARCHITECTURE]]></text>
+        <w>493.95</w>
+        <h>36.65</h>
+        <annotations>r0-33 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="10_1491121" type="shape" x="-85339.03976404792" y="-218278.59423447397" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="11_1491121" type="shape" x="-78628.18825640422" y="-218278.59423447397" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="12_1491121" type="shape" x="-72114.23801200598" y="-218278.59423447397" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="13_1491121" type="label" x="-85338.74902759424" y="-218214.9956352344" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-53.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[DEVICE 1]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="14_1491121" type="label" x="-78628.18825640422" y="-218214.99563523443" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-53.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[DEVICE 2]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="15_1491121" type="label" x="-72114.09264377906" y="-218214.9956352344" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-53.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[DEVICE 3]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="16_1491121" type="shape" x="-78521.50142569542" y="-213589.2949308943" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="18_1491121" type="image" x="-78521.63334613541" y="-213589.5967097405" r="-3.645354232159358e-15" s="11.99371368905171">
+      <source w="269" h="448">
+        661200235.png
+        <url>661200235.png</url>
+        <mask x="0" y="128" w="269" h="216"/>
+      </source>
+      <resource>
+        <id>661200235</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/2/6/adcd0627cf338b15062664284d7a364de51af.png</url>
+      </resource>
+      <sourceUrl>2013-05-02_21-19-55.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="19_1491121" type="shape" x="-82782.93510442297" y="-213589.0543043877" r="-5.1580796631041594e-15" s="16.95256289600636" class="line3">
+      <geom type="arrow">
+        <sp>-128.3412164034819 0</sp>
+        <ep>128.3412164034819 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="20_1491121" type="shape" x="-74399.3945301447" y="-213604.20973448816" r="-4.6422716967937426e-14" s="16.95256289600636" class="line3">
+      <geom type="arrow">
+        <sp>118.34409904425245 0</sp>
+        <ep>-118.34409904425245 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="21_1491121" type="shape" x="-78578.74848647475" y="-215931.19294415932" r="90.00000000000027" s="16.95256289600636" class="line3">
+      <geom type="arrow">
+        <sp>-41.16 0</sp>
+        <ep>41.16 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="22_1491121" type="shape" x="-84958.64764765289" y="-215120.5369036242" r="-90.00000000000001" s="23.258916293320727" class="line3">
+      <geom type="line">
+        <sp>-65.84496800808492 0</sp>
+        <ep>65.84496800808492 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="23_1491121" type="shape" x="-72392.64163347648" y="-215136.40365317577" r="-90.00000000000001" s="23.258916293320727" class="line3">
+      <geom type="line">
+        <sp>-65.84496800808492 0</sp>
+        <ep>65.84496800808492 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="24_1491121" type="shape" x="-86680.89824836618" y="-207338.04055016625" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="25_1491121" type="label" x="-86657.45689731209" y="-207175.36906894995" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-82.8</x>
+        <y>-34.65</y>
+        <text><![CDATA[Individual Device Status]]></text>
+        <annotations>r0-12 { align: left; }
+r12-25 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="26_1491121" type="shape" x="-81564.98298685982" y="-207463.98029247145" r="-7.221311528345824e-15" s="12.108973497147396" class="line3">
+      <geom type="arrow">
+        <sp>249.63335245534464 0</sp>
+        <ep>-249.63335245534464 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="27_1491121" type="shape" x="-79499.9164791082" y="-210132.400860787" r="89.99999999999997" s="12.108973497147396" class="line3">
+      <geom type="arrow">
+        <sp>145.586571926228 0</sp>
+        <ep>-145.586571926228 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="28_1491121" type="shape" x="-82047.62580799965" y="-208369.4969197918" r="-4.693852493424785e-14" s="12.1089734971474" class="line3">
+      <geom type="line">
+        <sp>210.3984561112146 0</sp>
+        <ep>-210.3984561112146 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="29_1491121" type="shape" x="-78542.17933797392" y="-209684.24541305713" r="-90" s="12.108973497147396" class="line3">
+      <geom type="line">
+        <sp>-183.35700553881304 0</sp>
+        <ep>183.35700553881304 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="30_1491121" type="shape" x="-69043.21914666114" y="-210561.21525372943" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="31_1491121" type="label" x="-69044.133745401" y="-210396.7289755749" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-51.45</x>
+        <y>-18.3</y>
+        <text><![CDATA[DISPLAY]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="32_1491121" type="shape" x="-73977.82367044142" y="-210753.20033087977" r="-164.99999999999997" s="16.952562896006345" class="line3">
+      <geom type="arrow">
+        <sp>162.41502886723237 33.554224163619025</sp>
+        <ep>-162.41502886723237 33.55422416361894</ep>
+        <b>67.10844832723797</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="33_1491121" type="shape" x="-62779.65204401042" y="-210561.93158751956" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="34_1491121" type="label" x="-62780.348590410315" y="-210398.3902028393" r="-3.759533282145888e-15" s="23.25891629332072" class="head">
+      <textfield autoSize="true">
+        <x>-67.15</x>
+        <y>-34.65</y>
+        <text><![CDATA[On Control  Changed]]></text>
+        <annotations>r0-11 { align: left; }
+r11-20 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="35_1491121" type="shape" x="-65915.41283906355" y="-210791.2796821806" r="-3.610655764172912e-15" s="12.108973497147396" class="line3">
+      <geom type="arrow">
+        <sp>-89.33426684153393 0</sp>
+        <ep>89.33426684153393 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="36_1491121" type="shape" x="-68939.20534065152" y="-205544.29144286356" r="0" s="11.195090462185323" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect3</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="37_1491121" type="label" x="-68938.88430946338" y="-205382.85789747248" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-64.4</x>
+        <y>-34.65</y>
+        <text><![CDATA[Send New     Data]]></text>
+        <annotations>r0-10 { align: left; }
+r10-18 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="38_1491121" type="shape" x="-64940.17665028484" y="-205528.53620808883" r="-5.6738876294145766e-14" s="16.95256289600636" class="line3">
+      <geom type="arrow">
+        <sp>115.23223403346596 0</sp>
+        <ep>-115.23223403346596 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="39_1491121" type="shape" x="-62986.69495518531" y="-207282.6276514348" r="-89.99999999999974" s="16.95256289600636" class="line3">
+      <geom type="line">
+        <sp>-103.47057575342708 0</sp>
+        <ep>103.47057575342708 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="42_1491121" type="label" x="-76551.38508375087" y="-206152.48554083775" r="-3.7595332821458886e-15" s="23.258916293320727" class="head">
+      <textfield autoSize="true">
+        <x>-45.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Update]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="43_1491121" type="shape" x="-81110.27743716318" y="-206094.38712310957" r="-3.6106557641729125e-14" s="16.95256289600636" class="line3">
+      <geom type="arrow">
+        <sp>199.35940969940629 0</sp>
+        <ep>-199.35940969940629 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="44_1491121" type="shape" x="-73254.99087241248" y="-206150.96124577665" r="-3.249590187755621e-14" s="12.108973497147396" class="line3">
+      <geom type="line">
+        <sp>175.43305793216467 0</sp>
+        <ep>-175.43305793216467 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="46_1491121" type="button" x="-199409.19895594395" y="-258491.4598467364" r="-40.144849757313494" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="47_1491121" type="label" x="-199261.96734734415" y="-259333.5955366099" r="-40.14484975731352" s="78.23256429880013" class="head">
+      <textfield autoSize="true">
+        <x>-112.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[KWH MANAGER]]></text>
+        <w>225.4</w>
+        <h>36.65</h>
+        <annotations>r0-11 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="48_1491121" type="label" x="-296532.7875709757" y="-260033.15466716737" r="-29.39946260174373" s="46.51783258664145" class="head">
+      <textfield autoSize="true">
+        <x>-94.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[KWH MANAGER]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="49_1491121" type="label" x="-291826.6151159959" y="-252365.55063387152" r="-29.39946260174373" s="42.288938715128594" class="head">
+      <textfield autoSize="true">
+        <x>-160.2</x>
+        <y>-99.95</y>
+        <text><![CDATA[Simplified VersionShows in Time of usageExpandableShows individual UsageDisplays BILL and other      Details.]]></text>
+        <annotations>r0-19 { bullet: true; }
+r0-19 { align: left; }
+r0-19 { blockIndent: 36; }
+r19-42 { bullet: true; }
+r19-42 { align: left; }
+r19-42 { blockIndent: 36; }
+r42-53 { bullet: true; }
+r42-53 { align: left; }
+r42-53 { blockIndent: 36; }
+r53-76 { bullet: true; }
+r53-76 { align: left; }
+r53-76 { blockIndent: 36; }
+r76-100 { bullet: true; }
+r76-100 { align: left; }
+r76-100 { blockIndent: 36; }
+r100-114 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1495100" type="button" x="305738.7920888984" y="355879.0870999607" r="-1.7646731284848823e-14" s="24.77588299496046" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1495100" type="button" x="294248.37816198525" y="325295.59976689616" r="-11.058262556719752" s="2.827782801899271" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="2_1495100" type="button" x="110542.59983609218" y="118206.75913920984" r="-22.90253473298631" s="3.625846824882465" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1090.7860501627097</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="3_1495100" type="button" x="110296.77427751076" y="118731.40926547813" r="-22.90253473298631" s="0.89832395017408" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="4_1495100" type="button" x="110747.96113556113" y="118511.05003865052" r="-22.90253473298631" s="1.1229049377175997" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="5_1495100" type="button" x="282889.64895195107" y="-100454.75233113086" r="-179.51649547418128" s="98.69548828056364" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="6_1495100" type="label" x="283235.11602181924" y="-98910.7583043168" r="-179.51649547418128" s="89.81289433531299" class="head">
+      <textfield autoSize="true">
+        <x>-171.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[INTEGRATION AND DEMO]]></text>
+        <w>343.75</w>
+        <h>36.65</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="8_1495100" type="image" x="105608.08210947788" y="118278.62296410004" r="-22.90253473298631" s="4.552906020653904">
+      <source w="184" h="318" bt="425.95" bl="677.65">
+        233792288.swf
+        <url>233792288.swf</url>
+      </source>
+      <resource>
+        <id>233792288</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/5/4c81b790fc27ee5ff8c871665d97fb2e953cb.swf</url>
+      </resource>
+      <sourceUrl>128_smartphone.swf</sourceUrl>
+      <meta>
+        <parentObjlib>128_smartphone</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="9_1495100" type="image" x="113473.95321105514" y="114940.9152220609" r="-22.90253473298631" s="4.552906020653904">
+      <source w="184" h="318" bt="425.95" bl="677.65">
+        233792288.swf
+        <url>233792288.swf</url>
+      </source>
+      <resource>
+        <id>233792288</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/5/4c81b790fc27ee5ff8c871665d97fb2e953cb.swf</url>
+      </resource>
+      <sourceUrl>128_smartphone.swf</sourceUrl>
+      <meta>
+        <parentObjlib>128_smartphone</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="10_1495100" type="shape" x="105719.2137542528" y="117403.23204036508" r="19.114729495170938" s="8.432072748321179" class="line3">
+      <geom type="line">
+        <sp>-41.74291922908536 9.787322419292082</sp>
+        <ep>41.74291922908536 9.787322419292082</ep>
+        <b>-19.574644838584163</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="11_1495100" type="shape" x="105631.2405524512" y="117187.6813062455" r="7.09746526701377" s="8.432072748321172" class="line3">
+      <geom type="line">
+        <sp>-71.73041377431015 16.74365170636176</sp>
+        <ep>71.73041377431016 16.74365170636176</ep>
+        <b>-33.48730341272352</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="12_1495100" type="shape" x="112769.57019600352" y="114222.6561600946" r="-53.03725788929422" s="8.432072748321183" class="line3">
+      <geom type="line">
+        <sp>-41.74291922908536 9.787322419292082</sp>
+        <ep>41.74291922908536 9.787322419292082</ep>
+        <b>-19.574644838584163</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="13_1495100" type="shape" x="112537.43011931682" y="114240.3306618012" r="-65.05452211745137" s="8.432072748321172" class="line3">
+      <geom type="line">
+        <sp>-71.73041377431015 16.74365170636176</sp>
+        <ep>71.73041377431016 16.74365170636176</ep>
+        <b>-33.48730341272352</b>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="0_1725884" type="button" x="174.19232263470795" y="96672.50168835268" r="-4.922602632728681e-15" s="17.76350366572522" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1725884" type="label" x="106.96649968697392" y="94785.2619289767" r="0" s="16.164788335809952" class="head">
+      <textfield>
+        <x>-111.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[TCP/IP Protocol]]></text>
+        <w>223.65</w>
+        <h>36.65</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_2011572" type="label" x="-284.632265662307" y="96184.11446951178" r="0" s="10.037061760442311" class="strong">
+      <textfield autoSize="true">
+        <x>-189</x>
+        <y>-64</y>
+        <text><![CDATA[Connection OrientedReliabilityIdeal for HARD real time systemsSerial Data Communication]]></text>
+        <annotations>r0-20 { bullet: true; }
+r0-20 { align: left; }
+r0-20 { blockIndent: 36; }
+r20-32 { bullet: true; }
+r20-32 { align: left; }
+r20-32 { blockIndent: 36; }
+r32-65 { bullet: true; }
+r32-65 { align: left; }
+r32-65 { blockIndent: 36; }
+r65-90 { bullet: true; }
+r65-90 { align: left; }
+r65-90 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="4_3113071" type="shape" x="-1737.0620461442477" y="97905.62651009671" r="-3.5292640395125437e-15" s="3.0970575214975264" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <layout/>
+    </object>
+    <object id="5_3113071" type="shape" x="1756.8763293608083" y="97906.0236631597" r="-3.5292640395125437e-15" s="3.0970575214975264" class="poly1">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>9</t>
+        <r>0</r>
+      </geom>
+      <layout/>
+    </object>
+    <object id="6_3113071" type="label" x="1756.703460796669" y="97791.8266896913" r="-3.951822369186964e-15" s="5.531794052358605" class="strong">
+      <textfield>
+        <x>-37.6</x>
+        <y>-33</y>
+        <text><![CDATA[Server Socket]]></text>
+        <annotations>r0-8 { align: left; }
+r8-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="7_3113071" type="label" x="-1745.8556645927729" y="97868.09630018822" r="-3.951822369186964e-15" s="5.531794052358605" class="strong">
+      <textfield>
+        <x>-36</x>
+        <y>-33</y>
+        <text><![CDATA[Client Socket]]></text>
+        <annotations>r0-8 { align: left; }
+r8-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="8_3113071" type="label" x="1442.0481003558953" y="98168.05783267732" r="0" s="3.4348088818812705" class="body">
+      <textfield autoSize="true">
+        <x>-53.2</x>
+        <y>-17.45</y>
+        <text><![CDATA[Port : 5000]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="9_3113071" type="label" x="1756.7365225493809" y="98062.81877057404" r="0" s="3.4348088818812705" class="body">
+      <textfield autoSize="true">
+        <x>-144.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[System IP : XXX.XXX.X.XXX]]></text>
+        <annotations>r0-25 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="10_3113071" type="shape" x="5.719827182506172" y="97799.9498848045" r="0" s="1.9756407329852157" class="line3">
+      <geom type="line">
+        <sp>-593.5854740240394 0</sp>
+        <ep>593.5854740240393 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="11_3113071" type="shape" x="5.7198271824811675" y="97864.36024231512" r="0" s="1.9756407329852157" class="line3">
+      <geom type="line">
+        <sp>-593.5854740240396 0</sp>
+        <ep>593.5854740240395 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="12_3113071" type="shape" x="-1071.043465206446" y="97825.7596696305" r="-57.804266065286804" s="1.382948513089651" class="line3">
+      <geom type="line">
+        <sp>22.08126089273929 0</sp>
+        <ep>-22.081260892739287 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="13_3113071" type="shape" x="1087.258307434898" y="97831.45439726282" r="-58.199657604621024" s="1.3829485130896517" class="line3">
+      <geom type="line">
+        <sp>23.57415104748324 0</sp>
+        <ep>-23.57415104748324 0</ep>
+        <t>8</t>
+      </geom>
+      <layout/>
+    </object>
+    <object id="14_3113071" type="label" x="-227.9313766256407" y="97755.73173349972" r="-3.951822369186964e-15" s="2.7658970261793026" class="body">
+      <textfield autoSize="true">
+        <x>-180.5</x>
+        <y>-17.45</y>
+        <text><![CDATA[Connecting on XXX.XXX.X.XX:5000]]></text>
+        <annotations>r0-31 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="15_3113071" type="button" x="379721.7331368575" y="-126836.63878851122" r="-0.48427490338392054" s="98.69548828056377" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="17_3113071" type="shape" x="379719.9353037904" y="-126835.18669257252" r="-0.4842749033839209" s="86.7497875670726" class="poly2">
+      <geom type="poly">
+        <p x="-181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="-133.99997329900538"/>
+        <p x="181.4999691968996" y="133.99997329900538"/>
+        <p x="-181.4999691968996" y="133.99997329900538"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <layout/>
+    </object>
+    <object id="18_3113071" type="label" x="379714.66567479743" y="-127579.01085986749" r="-0.48427490338392337" s="86.82058415516559" class="body">
+      <textfield autoSize="true">
+        <x>-69.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[THANK YOU]]></text>
+        <annotations>r0-9 { color: #640f1e; }
+r0-9 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="19_3113071" type="label" x="389692.7608703439" y="-118632.97029145532" r="-0.48427490338392337" s="43.410292077582795" class="body">
+      <textfield autoSize="true">
+        <x>-89.85</x>
+        <y>-48.4</y>
+        <text><![CDATA[Prachet VermaPrahlad SureshSarath Vadakkepat]]></text>
+        <annotations>r0-14 { align: left; }
+r14-29 { align: left; }
+r29-46 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="23_3113071" type="image" x="-103463.43745106806" y="-266375.94411730376" r="-0.15295786778994233" s="23.149885983311982">
+      <source w="480" h="800">
+        665375263.png
+        <url>665375263.png</url>
+        <mask x="0" y="220" w="480" h="399"/>
+      </source>
+      <resource>
+        <id>665375263</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/7/e/3bdb640dea9f53a076c757dd38bcd41d48cd6.png</url>
+      </resource>
+      <sourceUrl>2013-05-22_10-33-21.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="24_3113071" type="button" x="-96259.79198641016" y="-266229.72408543364" r="0" s="85.96985087780229" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="25_3113071" type="label" x="-96259.07883961164" y="-275543.65146184165" r="0" s="109.52559001832012" class="head">
+      <textfield autoSize="true">
+        <x>-54.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[Timer]]></text>
+        <w>109.7</w>
+        <h>36.65</h>
+        <annotations>r0-5 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="26_3113071" type="label" x="-89389.10020665235" y="-267224.9487514687" r="-0.1529578677899495" s="74.8074516893109" class="strong">
+      <textfield>
+        <x>-77.4</x>
+        <y>-33</y>
+        <text><![CDATA[Start TimerStop Timer]]></text>
+        <annotations>r0-12 { bullet: true; }
+r0-12 { align: left; }
+r0-12 { blockIndent: 36; }
+r12-22 { bullet: true; }
+r12-22 { align: left; }
+r12-22 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="7"/>
+    </s>
+    <s>
+      <eagle o="84"/>
+    </s>
+    <s>
+      <eagle o="2_1495100"/>
+    </s>
+    <s>
+      <eagle o="3_1495100"/>
+    </s>
+    <s>
+      <eagle o="4_1495100"/>
+    </s>
+    <s>
+      <eagle o="78"/>
+    </s>
+    <s>
+      <eagle o="112_1484250"/>
+    </s>
+    <s>
+      <eagle o="0_1725884"/>
+    </s>
+    <s>
+      <eagle o="1_1471116"/>
+    </s>
+    <s>
+      <eagle o="0_1475295"/>
+    </s>
+    <s>
+      <eagle o="12_1475295"/>
+    </s>
+    <s>
+      <eagle o="30_1475295"/>
+    </s>
+    <s>
+      <eagle o="47_1475295"/>
+    </s>
+    <s>
+      <eagle o="51_1475295"/>
+    </s>
+    <s>
+      <eagle o="0_1484250"/>
+    </s>
+    <s>
+      <eagle o="13_1484250"/>
+    </s>
+    <s>
+      <eagle o="27_1484250"/>
+    </s>
+    <s>
+      <eagle o="53_1484250"/>
+    </s>
+    <s>
+      <eagle o="57_1484250"/>
+    </s>
+    <s>
+      <eagle o="95_1484250"/>
+    </s>
+    <s>
+      <eagle o="117_1484250"/>
+    </s>
+    <s>
+      <eagle o="121_1484250"/>
+    </s>
+    <s>
+      <eagle o="131_1484250"/>
+    </s>
+    <s>
+      <eagle o="133_1484250"/>
+    </s>
+    <s>
+      <eagle o="135_1484250"/>
+    </s>
+    <s>
+      <eagle o="137_1484250"/>
+    </s>
+    <s>
+      <eagle o="7_1491121"/>
+    </s>
+    <s>
+      <eagle o="24_3113071"/>
+    </s>
+    <s>
+      <eagle o="46_1491121"/>
+    </s>
+    <s>
+      <eagle o="147_1484250"/>
+    </s>
+    <s>
+      <eagle o="139_1484250"/>
+    </s>
+    <s>
+      <eagle o="141_1484250"/>
+    </s>
+    <s>
+      <eagle o="5_1495100"/>
+    </s>
+    <s>
+      <eagle o="15_3113071"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('OpenSans-Bold.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: strong;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #fff808;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #fff;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #fff;
+}
+
+frame.circle
+{
+	gradStartColor: #333;
+	borderThickness: 0;
+	borderColor: #999;
+	gradEndColor: #333;
+}
+
+frame.bracket
+{
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	borderThickness: 0;
+	borderColor: #fff;
+	thickness: 7;
+}
+
+frame.rectangle
+{
+	gradStartColor: #000;
+	borderThickness: 0;
+	radius: 0;
+	borderColor: #fff;
+	gradEndColor: #000;
+}
+
+arrow
+{
+	gradStartColor: #fff808;
+	borderThickness: -1;
+	borderColor: #fff;
+	gradEndColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	gradStartColor: #fff;
+	color: #fff;
+	gradEndColor: #fff;
+}
+
+line-arrow.style2
+{
+	gradStartColor: #c5c3c3;
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	gradStartColor: #fff808;
+	color: #fff808;
+	gradEndColor: #fff808;
+}
+
+line-arrow.style4
+{
+	gradStartColor: #333;
+	color: #333;
+	gradEndColor: #333;
+}
+
+line-arrow.style5
+{
+	gradStartColor: #000;
+	color: #000;
+	gradEndColor: #000;
+}
+
+circle
+{
+	lockTintAlpha: 0.6;
+	radius: 0;
+	borderAlpha: 1;
+	thickness: 100;
+}
+
+shape
+{
+	gradEndAlpha: 0.8;
+	lockTintAlpha: 0.6;
+	thickness: 100;
+	radius: 0;
+	borderAlpha: 1;
+	gradStartAlpha: 0.7;
+}
+
+shape.style1
+{
+	gradStartColor: #fff;
+	borderThickness: 0;
+	borderColor: #fff;
+	gradEndColor: #fff;
+}
+
+shape.style2
+{
+	gradStartColor: #c5c3c3;
+	borderThickness: 0;
+	borderColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+shape.style3
+{
+	gradStartColor: #fff808;
+	borderThickness: 0;
+	borderColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+shape.style4
+{
+	gradStartColor: #333;
+	borderThickness: 0;
+	borderColor: #333;
+	gradEndColor: #333;
+}
+
+shape.style5
+{
+	gradStartColor: #000;
+	borderThickness: 0;
+	borderColor: #000;
+	gradEndColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	color: #ffff0d;
+	alpha: 0.3;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	gradEndAlpha: 1;
+	lockTintAlpha: 0;
+	thickness: 100;
+	radius: 0;
+	borderAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+ZPoly
+{
+	gradEndAlpha: 1;
+	lockTintAlpha: 0;
+	thickness: 100;
+	radius: 0;
+	borderAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #004f75;
+}
+
+.line5
+{
+	gradStartColor: #333;
+	color: #333;
+	gradEndColor: #333;
+}
+
+.poly5
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #333;
+	color: #fff;
+	gradEndColor: #fff;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #318bff;
+}
+
+.line1
+{
+	gradStartColor: #3fc0ff;
+	color: #3fc0ff;
+	gradEndColor: #3fc0ff;
+}
+
+.poly1
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradEndColor: #fff;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+	borderThickness: 0;
+	borderColor: #004f75;
+	thickness: 10;
+}
+
+.line4
+{
+	gradStartColor: #ffbe00;
+	color: #ffbe00;
+	gradEndColor: #ffbe00;
+}
+
+.poly4
+{
+	gradStartColor: #004f75;
+	borderThickness: 0;
+	borderColor: #004f75;
+	color: #fff;
+	gradEndColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	gradEndColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+	borderThickness: 0;
+	borderColor: #b2b2b2;
+	thickness: 10;
+}
+
+.line2
+{
+	gradStartColor: #f00;
+	borderColor: #fff;
+	color: #f00;
+	gradEndColor: #f00;
+}
+
+.poly2
+{
+	gradStartColor: #3fc0ff;
+	borderThickness: 0;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradEndColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	gradStartColor: #3fc0ff;
+	borderThickness: 0;
+	borderColor: #3fc0ff;
+	gradEndColor: #3fc0ff;
+}
+
+ZArrow
+{
+	gradStartColor: #333;
+	borderThickness: 0;
+	borderColor: #fff;
+	lockTintAlpha: 0;
+	gradEndColor: #333;
+}
+
+.line3
+{
+	gradStartColor: #004f75;
+	color: #004f75;
+	gradEndColor: #004f75;
+}
+
+.poly3
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #004f75;
+	color: #fff;
+	gradEndColor: #fff;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	color: #00e1ff;
+	alpha: 0.3;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZPath
+{
+	alpha: 1;
+	textColor: #fff;
+	color: #40abe6;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #40abe6;
+	radius: 8;
+	alpha: .5;
+}
+
+ZPath Ball.base
+{
+	fillColor: #40abe6;
+	radius: 12;
+	alpha: 1;
+}
+
+]]></style>
+  <hash>11f0cf54</hash>
+  <sync>
+    <oid>2axg2lillhpb</oid>
+    <hash>4ca4fb7e</hash>
+  </sync>
+  <config>8OCoekUFocfToAAbC6UBskYha0MN6j5aOg==</config>
+</zuiprezi>

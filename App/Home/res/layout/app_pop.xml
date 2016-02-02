@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:id="@+id/lyt" 
+        android:background="@drawable/bg">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="10dp"
+            android:text="Current State    :    "
+            android:textSize="20dp" 
+            android:textColor="@color/norm"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/textView1"
+            android:textSize="20dp" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton1"
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textView1"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="7dp"
+           
+            android:textOff="Power Up"
+            android:textOn="Shutdown"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:textColor="#268307" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="84dp"
+            android:layout_height="40dp"
+            android:layout_alignLeft="@+id/toggleButton1"
+            android:layout_below="@+id/toggleButton1"
+            android:text="Speed"
+            android:textSize="14dp" 
+            android:textColor="@color/norm"/>
+
+        <SeekBar
+            android:id="@+id/s1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/button1"
+            android:layout_marginLeft="6dp" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/s1"
+            android:layout_alignTop="@+id/toggleButton1"
+            android:progress="100"
+           
+           />
+
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/button1"
+            android:layout_alignRight="@+id/progressBar1"
+            android:layout_marginBottom="-7dp"
+            android:layout_marginRight="20dp"
+            android:text="0 %"
+            android:textAppearance="?android:attr/textAppearanceSmall" 
+            android:textColor="@color/norm"/>
+
+        <Button
+            android:id="@+id/button2"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_above="@+id/progressBar1"
+            android:layout_alignParentRight="true"
+            android:text="OK" 
+            android:textColor="@color/norm"/>
+
+        <Button
+            android:id="@+id/Button01"
+            android:layout_width="84dp"
+            android:layout_height="40dp"
+            android:layout_above="@+id/s1"
+            android:layout_alignRight="@+id/toggleButton1"
+            android:text="Timer"
+            android:textSize="14dp"
+            android:textColor="@color/norm" />
+
+    </RelativeLayout>

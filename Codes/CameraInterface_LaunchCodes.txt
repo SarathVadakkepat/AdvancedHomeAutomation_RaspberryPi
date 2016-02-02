@@ -1,0 +1,11 @@
+FOR DESKTOP
+
+g++ -std=c++0x -pthread -I/usr/local/include/opencv -I/usr/include -I/usr/local/include/opencv2 -I/usr/include/opencv2 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"/home/sarathv/CameraInterface.d" -MT"/home/sarathv/CameraInterface.d" -o "/home/sarathv/CameraInterface.o" "/home/sarathv/CameraInterface.cpp""
+
+g++ -L/usr/local/lib -L/usr/lib -o "CameraInterface"  /home/sarathv/CameraInterface.o   -lopencv_core -lopencv_highgui -lopencv_objdetect -lopencv_contrib -lopencv_video
+
+For RaspberryPi
+
+g++ -std=c++0x -pthread -I/usr/local/include/opencv -I/usr/include -I/usr/local/include/opencv2 -I/usr/include/opencv2 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"/home/pi/Desktop/PSP/CameraInterface.d" -MT"/home/pi/Desktop/PSP/CameraInterface.d" -o "/home/pi/Desktop/PSP/CameraInterface.o" "/home/pi/Desktop/PSP/CameraInterface.cpp"
+
+g++ -L/usr/local/lib -L/usr/lib -o "CameraInterface"  /home/pi/Desktop/PSP/CameraInterface.o   -lopencv_core -lopencv_highgui -lopencv_objdetect -lopencv_contrib -lopencv_video

@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="app_name">Home</string>
+    <string name="title_section3">Currently On</string>
+    <string name="title_section2">Home</string>
+    <string name="title_section1">All Appliances</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Home</string>
+<string name="image"></string>
+        
+    
+    <!--  FOR TIMER -->
+    <string name="t_start">Start After</string>
+    <string name="t_stop">Stop After</string>
+    <string name="t_set">SET</string>
+
+<!--  FOR APP_POP -->
+    <string name="apop_cstate">Start Timer</string>
+    <string name="apop_speed">Stop Timer</string>
+    <string name="apop_set">SET</string>
+
+    
+    <!--  FOR Control Panel -->
+    <string name="cp_1">System Status</string>
+    <string name="cp_2">System Condition</string>
+    <string name="cp_3">PANEL</string>
+    
+    
+     <!--  FOR Entry -->
+    <string name="entry_1">Username</string>
+    <string name="entry_2">Password</string>
+    <string name="entry_3">Enter Your Home</string>
+    
+       <!--  FOR IP -->
+    <string name="ip_1">Configure IP</string>
+    <string name="ip_2">192.168.1.45</string>
+     <string name="ip_3">5001</string>
+    <string name="ip_4">DONE</string>
+    
+     <!--  FOR Home -->
+    <string name="home_1">NAVIGATE HOME</string>
+    <string name="home_2">LIVING ROOM</string>
+     <string name="home_3">BEDROOM</string>
+    <string name="home_4">BATHROOM</string>
+    <string name="home_5">KITCHEN</string>
+    
+        <!--  FOR KWH -->
+    <string name="kwh_1">kWh Manager</string>
+    <string name="kwh_2">COMPLETE</string>
+     <string name="kwh_3">SPECIFIC</string>
+    
+      <!--  FOR ROOMS -->
+    <string name="room_1">BEDROOM</string>
+    <string name="room_2">There are </string>
+     <string name="room_3"> appliances currently switched ON.</string>
+    <string name="room_4">There is </string>
+    <string name="room_5">Shutdown All</string>
+     <string name="room_6">Power Up All</string>
+     <string name="room_7">in the room.</string>
+    
+     <!--  FOR KWH_LIST -->
+    <string name="kwhlist_1">Incandescent Bulb</string>
+    <string name="kwhlist_2">Total Units                : </string>
+     <string name="kwhlist_3">Total ON Time         : </string>
+    <string name="kwhlist_4">Total Units Used     : </string>
+    <string name="kwhlist_5">₹ 280</string>
+     <string name="kwhlist_6">10</string>
+     <string name="kwhlist_7">32 hrs</string>
+      <string name="kwhlist_9">Total Cost                 : </string>
+     <string name="kwhlist_8">32 Units</string>
+     
+     
+      <!--  FOR KWH_INFO -->
+    <string name="kwhinfo_1">PERIOD                            :</string>
+    <string name="kwhinfo_2">Total Units Consumed : </string>
+     <string name="kwhinfo_3">Total Cost for units       :</string>
+    <string name="kwhinfo_4">Deductions                     :</string>
+    <string name="kwhinfo_5">₹ 200</string>
+     <string name="kwhinfo_6">Arrears                             :</string>
+     <string name="kwhinfo_7">Net Amount Payable    :</string>
+      <string name="kwhinfo_8">Payment Due date        :</string>
+     <string name="kwhinfo_9">430 Units</string>
+     <string name="kwhinfo_10">₹ 2700</string>
+     <string name="kwhinfo_11">₹ 0</string>
+     <string name="kwhinfo_12">₹ 2500</string>
+     <string name="kwhinfo_13">15 Apr 2013</string>
+     <string name="kwhinfo_14">1 March to 1 April</string>
+     <string name="kwhinfo_15">Unit Slab</string>
+     <string name="kwhinfo_16">Pay Now</string>
+</resources>

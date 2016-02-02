@@ -1,0 +1,1874 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-68684.19337903333" y="-557511.9433148706" width="137368.38675806666" height="1115023.8866297412"/>
+      <aspectratio>4:3</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="3_1558809" type="button" x="-9270.66292856233" y="-60676.128752160155" r="-1.059568110950747" s="113.2492137990732" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="11_1558809" type="image" x="-9084.738515057656" y="-58277.39242196229" r="-1.059568110950747" s="34.38851212438247">
+      <source w="1024" h="221">
+        662805107.png
+        <url>662805107.png</url>
+      </source>
+      <resource>
+        <id>662805107</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/9/bffbb4dad55c37b9e902a0151cf6ff5fbb135.png</url>
+      </resource>
+      <sourceUrl>power-supply-circuit.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="185" type="button" x="-22338.550871197953" y="-380697.38290006394" r="0" s="173.1219809370828" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="159" type="image" x="5947.136724724167" y="-366549.96064829995" r="-0.8395928127284656" s="3.889353778607409">
+      <source w="716" h="411">
+        662225065.png
+        <url>662225065.png</url>
+      </source>
+      <resource>
+        <id>662225065</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/0/b/c7c28bdb8fad0242bd413bfef83d19556b515.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/0/b/c7c28bdb8fad0242bd413bfef83d19556b515.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="31" type="button" x="892.5237260355029" y="-397499.0002280031" r="3.1290849832925976e-30" s="18.340908291720375" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="33" type="label" x="-2797.710039311729" y="-394615.8824616705" r="2.6625668585107893e-30" s="14.369657493513124" class="body">
+      <textfield>
+        <x>-266.9</x>
+        <y>-102.8</y>
+        <text><![CDATA[Lighting control device that detects occupancy of a space by people and turns the lights on or off automaticallyTypically used to save energy, provide automatic control, and comply with building codes]]></text>
+        <w>533.8</w>
+        <h>205.6</h>
+        <annotations>r0-113 { bullet: true; }
+r0-113 { align: left; }
+r0-113 { blockIndent: 108; }
+r114-202 { bullet: true; }
+r114-202 { align: left; }
+r114-202 { blockIndent: 108; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="32" type="label" x="4735.808661373698" y="-401466.55748085584" r="1.7750445723405267e-30" s="21.554486240269686" class="head">
+      <textfield>
+        <x>-120.9</x>
+        <y>-16.4</y>
+        <text><![CDATA[Occupancy Sensing]]></text>
+        <w>241.8</w>
+        <h>32.8</h>
+        <annotations>r0-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="37" type="button" x="-45968.60501413564" y="-363469.31530360243" r="-9.130782966543667e-15" s="18.69653154409784" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="39" type="label" x="-49540.21424783335" y="-359625.6641796736" r="7.10739438900097e-15" s="12.875934003927037" class="body">
+      <textfield>
+        <x>-245.4</x>
+        <y>-74</y>
+        <text><![CDATA[Automation of the home, housework or household activityProvides improved convenience, comfort, energy efficiency and security]]></text>
+        <w>490.85</w>
+        <h>148</h>
+        <annotations>r0-56 { bullet: true; }
+r0-56 { align: left; }
+r0-56 { blockIndent: 36; }
+r57-127 { bullet: true; }
+r57-127 { align: left; }
+r57-127 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="38" type="label" x="-41469.94712011937" y="-367644.86517208064" r="-3.718057181362119e-15" s="21.972419549687622" class="head">
+      <textfield autoSize="true">
+        <x>-264.7</x>
+        <y>-16.4</y>
+        <text><![CDATA[Home Automation]]></text>
+        <w>529.45</w>
+        <h>32.8</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="40" type="button" x="-25046.927307170696" y="-527983.1560595249" r="0" s="86.66905662393285" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="0" type="image" x="28105" y="-510712" r="0" s="6.387005632299177">
+      <source w="894" h="1256">
+        v0g41t67cn.png
+        <url>v0g41t67cn.png</url>
+      </source>
+      <layout/>
+    </object>
+    <object id="42" type="label" x="44129.735409216686" y="-542507.5999996625" r="0" s="89.50864110021554" class="head">
+      <textfield autoSize="true">
+        <x>-274.3</x>
+        <y>-16.4</y>
+        <text><![CDATA[Smart Grid Compatible Control of Appliances using Internet Protocol]]></text>
+        <w>548.65</w>
+        <h>32.8</h>
+        <annotations>r0-67 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="41" type="label" x="39069.521028525676" y="-521521.69333125924" r="0" s="77.16262163811685" class="body">
+      <textfield>
+        <x>-262.05</x>
+        <y>-88.4</y>
+        <text><![CDATA[Prachet Verma 1BY09EE028Prahlad Suresh 1BY09EE030Sarath Vadakkepat 1BY09EE044Under the guidance ofProf. H. D. Kattimani]]></text>
+        <w>524.15</w>
+        <h>176.8</h>
+        <annotations>r103-124 { color: #175d66; }
+r0-25 { align: center; }
+r25-51 { align: center; }
+r51-80 { align: center; }
+r81-103 { align: center; }
+r103-124 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="61" type="button" x="1352.9853656674645" y="-363626.29086256796" r="5.116477306001629e-30" s="19.077390199773134" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="63" type="label" x="-2212.9760821653217" y="-360392.5943478789" r="0" s="14.946673233440476" class="body">
+      <textfield>
+        <x>-276</x>
+        <y>-102.8</y>
+        <text><![CDATA[Electrical grid that uses information and communications technology to  gather and act on informationImproves the efficiency, reliability, economics, and sustainability of the production and distribution of electricity]]></text>
+        <w>552</w>
+        <h>205.6</h>
+        <annotations>r0-102 { bullet: true; }
+r0-102 { align: left; }
+r0-102 { blockIndent: 108; }
+r103-220 { bullet: true; }
+r103-220 { align: left; }
+r103-220 { blockIndent: 108; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="62" type="label" x="5936.671687459345" y="-367563.7611332854" r="1.4512190177022762e-30" s="22.420009850160692" class="head">
+      <textfield>
+        <x>-90.45</x>
+        <y>-16.4</y>
+        <text><![CDATA[Smart Grid]]></text>
+        <w>180.9</w>
+        <h>32.8</h>
+        <annotations>r0-10 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="135" type="button" x="1999.5256508495816" y="391566.46484428283" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="132" type="image" x="3036.7944692095066" y="391401.29107849946" r="-0.8395928127284643" s="42.64763328589355">
+      <source w="1024" h="986">
+        662225085.png
+        <url>662225085.png</url>
+      </source>
+      <resource>
+        <id>662225085</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/4/c/5b3f308fb412bbc796e4aff0d2a22477d86d8.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/4/c/5b3f308fb412bbc796e4aff0d2a22477d86d8.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="139" type="button" x="848.6707309250164" y="312667.8604264071" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="136" type="image" x="18884.858747818722" y="302311.6294009666" r="89.16040718727156" s="35.02586184413078">
+      <source w="362" h="605">
+        662225081.png
+        <url>662225081.png</url>
+      </source>
+      <resource>
+        <id>662225081</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/8/b/4fbaa2219db6bda2398c2a2ea7e5730043324.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/8/b/4fbaa2219db6bda2398c2a2ea7e5730043324.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="137" type="label" x="-14007.179746987089" y="327986.62185723556" r="-0.8395928127284675" s="67.90310704154282" class="body">
+      <textfield>
+        <x>-275.3</x>
+        <y>-102.8</y>
+        <text><![CDATA[Custom-designed board to duplicate the pins of the Raspberry PiProvides accessibility and customisability to the projectSCSI (Small Computer System Interface) cable used to replicate all the Raspberry Pi pins on to the extension board]]></text>
+        <w>550.65</w>
+        <h>205.6</h>
+        <annotations>r0-64 { bullet: true; }
+r0-64 { align: left; }
+r0-64 { blockIndent: 108; }
+r64-122 { bullet: true; }
+r64-122 { align: left; }
+r64-122 { blockIndent: 108; }
+r122-236 { bullet: true; }
+r122-236 { align: left; }
+r122-236 { blockIndent: 108; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="138" type="label" x="18467.189864196873" y="293409.84202197514" r="-0.8395928127284646" s="101.85466056231407" class="head">
+      <textfield>
+        <x>-111.9</x>
+        <y>-16.4</y>
+        <text><![CDATA[Raspberry Pi Extension Board]]></text>
+        <w>223.85</w>
+        <h>32.8</h>
+        <annotations>r0-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="143" type="button" x="-2511.009548350415" y="230508.59792885187" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="140" type="image" x="-1327.849608300675" y="227654.8856922732" r="89.16040718727156" s="30.11180946965209">
+      <source w="466" h="1024">
+        662225079.png
+        <url>662225079.png</url>
+      </source>
+      <resource>
+        <id>662225079</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/9/f/7e666b278700567dc0c99021dac6dc49e2129.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/9/f/7e666b278700567dc0c99021dac6dc49e2129.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="141" type="label" x="-15475.758380148125" y="247681.40253648933" r="-0.8395928127284649" s="83.33563136916608" class="body">
+      <textfield>
+        <x>-269.65</x>
+        <y>-74</y>
+        <text><![CDATA[To pull the output of switch to ground when the switch is in off stateTo limit the input current to the Raspberry Pi to below 5 mA]]></text>
+        <w>539.35</w>
+        <h>148</h>
+        <annotations>r1-72 { bullet: true; }
+r1-72 { align: left; }
+r1-72 { blockIndent: 108; }
+r72-132 { bullet: true; }
+r72-132 { align: left; }
+r72-132 { blockIndent: 108; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="142" type="label" x="16378.77903643417" y="211187.68414048367" r="-0.8395928127284635" s="101.85466056231412" class="head">
+      <textfield>
+        <x>-116.7</x>
+        <y>-16.4</y>
+        <text><![CDATA[Transistor Switching Circuit]]></text>
+        <w>233.45</w>
+        <h>32.8</h>
+        <annotations>r0-28 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="147" type="button" x="-4789.2639058054065" y="75284.53832403499" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="144" type="image" x="-4219.670200353173" y="73016.98977878022" r="89.16040718727156" s="51.096123515990335">
+      <source w="347" h="1024">
+        662225075.png
+        <url>662225075.png</url>
+      </source>
+      <resource>
+        <id>662225075</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/5/3/fea385a31cc2aef5863f89494834a7b8b45d6.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/5/3/fea385a31cc2aef5863f89494834a7b8b45d6.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="155" type="button" x="-17800.375680008612" y="-60096.216792556064" r="-0.8395928127284635" s="0.9864629391868309" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="153" type="label" x="-18002.35576461707" y="-59944.65407240051" r="-0.8395928127284656" s="0.7728698241492278" class="body">
+      <textfield autoSize="true">
+        <x>-144.6</x>
+        <y>-45.2</y>
+        <text><![CDATA[Rated 1000mAStep-down transformer220V AC to 12-0-12V AC]]></text>
+        <annotations>r0-13 { align: left; }
+r0-13 { blockIndent: 36; }
+r13-35 { align: left; }
+r13-35 { blockIndent: 36; }
+r35-57 { align: left; }
+r35-57 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="154" type="label" x="-17571.92551562095" y="-60318.30759376063" r="-0.8395928127284866" s="1.1593047362238076" class="head">
+      <textfield>
+        <x>-107.05</x>
+        <y>-16.4</y>
+        <text><![CDATA[Transformer]]></text>
+        <w>214.1</w>
+        <h>32.8</h>
+        <annotations>r0-11 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="180" type="button" x="-23400.05743335814" y="-290652.4316300227" r="0.10128174914331801" s="112.9191632105401" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>601</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="158" type="button" x="-23047.26469593679" y="-278411.6523300433" r="-90.0392958157995" s="40.91324050721932" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="156" type="label" x="-22842.55120263171" y="-271458.60162457905" r="-90.0392958157995" s="48.213092619947446" class="body">
+      <textfield>
+        <x>-195.85</x>
+        <y>-218</y>
+        <text><![CDATA[To promote energy saving by implementing automatic switch  off based on detected occupancyTo comply with smart grid initiatives by enabling smart monitoring of usage of electricityTo integrate luxury with necessityTo make it available to the general public through intelligent design]]></text>
+        <w>391.75</w>
+        <h>436</h>
+        <annotations>r0-91 { align: left; }
+r0-91 { blockIndent: 36; }
+r92-183 { align: left; }
+r92-183 { blockIndent: 36; }
+r184-219 { align: left; }
+r184-219 { blockIndent: 36; }
+r220-289 { align: left; }
+r220-289 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="162" type="button" x="5960.218021304582" y="-366773.6508198258" r="-0.8395928127284635" s="4.2510435493497045" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="169" type="button" x="-3686.578268787367" y="150542.4457390198" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="166" type="image" x="15669.62659139284" y="137626.20351549663" r="-0.8395928127284651" s="82.03244042594439">
+      <source w="154" h="90">
+        662225077.png
+        <url>662225077.png</url>
+      </source>
+      <resource>
+        <id>662225077</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/1/6/aa9b1613ff38017e816ca3eadad14e134cfaa.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/1/6/aa9b1613ff38017e816ca3eadad14e134cfaa.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="167" type="label" x="-22722.56638161596" y="168057.70135121956" r="-0.839592812728469" s="69.90322136176891" class="body">
+      <textfield>
+        <x>-171.55</x>
+        <y>-146</y>
+        <text><![CDATA[Simple tact switches (only on when the button is pressed)Output is high when the switch is in on state, floating when the switch is in off state]]></text>
+        <w>343.15</w>
+        <h>205.6</h>
+        <annotations>r0-58 { bullet: true; }
+r0-58 { align: left; }
+r0-58 { blockIndent: 36; }
+r58-145 { bullet: true; }
+r58-145 { align: left; }
+r58-145 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="168" type="label" x="15882.472656783004" y="131910.23452840073" r="-0.8395928127284635" s="101.85466056231412" class="head">
+      <textfield>
+        <x>-98</x>
+        <y>-16.4</y>
+        <text><![CDATA[Push Button Switch]]></text>
+        <w>196.05</w>
+        <h>32.8</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="173" type="button" x="-5814.891221641806" y="4982.457987618412" r="-0.8395928127284644" s="86.6690566239327" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="170" type="image" x="11172.99733558872" y="-6250.754637814417" r="-0.8395928127284644" s="17.849300877724016">
+      <source w="800" h="620">
+        662225073.png
+        <url>662225073.png</url>
+      </source>
+      <resource>
+        <id>662225073</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/1/2/da419e3143d740fa4b4bf1699294e123343db.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/1/2/da419e3143d740fa4b4bf1699294e123343db.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="171" type="label" x="-17071.10010759139" y="20989.64364704082" r="-0.8395928127284666" s="67.9031070415428" class="body">
+      <textfield autoSize="true">
+        <x>-269.2</x>
+        <y>-59.6</y>
+        <text><![CDATA[Triac-based relay with BTB04-600SL ICRated for 4A/250V AC inputInput logic is 12V levelInterfaced with MOC3041 for opto-isolation]]></text>
+        <annotations>r0-38 { bullet: true; }
+r0-38 { align: left; }
+r0-38 { blockIndent: 72; }
+r38-65 { bullet: true; }
+r38-65 { align: left; }
+r38-65 { blockIndent: 72; }
+r65-90 { bullet: true; }
+r65-90 { align: left; }
+r65-90 { blockIndent: 72; }
+r90-132 { bullet: true; }
+r90-132 { align: left; }
+r90-132 { blockIndent: 72; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="179" type="label" x="-23093.06439371814" y="-290121.7204920549" r="0.0629580638651767" s="131.44417472831734" class="head">
+      <textfield>
+        <x>-74.9</x>
+        <y>-16.4</y>
+        <text><![CDATA[Scope of the Project]]></text>
+        <w>149.8</w>
+        <h>32.8</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="186" type="label" x="-22337.24274154012" y="-381555.51595574204" r="-9.130782966543679e-15" s="241.2165217161467" class="head">
+      <textfield autoSize="true">
+        <x>-65.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[Introduction]]></text>
+        <w>130.4</w>
+        <h>32.8</h>
+        <annotations>r0-12 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="5_1517946" type="button" x="-13602.03150379124" y="-137589.84225553405" r="5.116477306001628e-30" s="194.2826998479907" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="10_1517946" type="image" x="-13611.188411397541" y="-137600.3072927985" r="5.116477306001625e-30" s="18.06895329384849">
+      <source w="3591" h="2694">
+        662401991.jpg
+        <url>662401991.jpg</url>
+      </source>
+      <resource>
+        <id>662401991</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/9/8/855ea4ac07a7f2f6853d96df379afd7d70e4d.jpg</url>
+      </resource>
+      <sourceUrl>20120531_RaspberryPi.jpg</sourceUrl>
+      <layout/>
+    </object>
+    <object id="11_1517946" type="button" x="-24561.541778898092" y="-137345.22200947933" r="5.116477306001638e-30" s="14.950421506315452" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="12_1517946" type="button" x="-17427.16408713662" y="-211256.64978072932" r="5.116477306001624e-30" s="81.7244529832485" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="13_1517946" type="label" x="-16916.99352049897" y="-213527.56286709668" r="5.116477306001625e-30" s="113.8693548968708" class="head">
+      <textfield autoSize="true">
+        <x>-102.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[Hardware]]></text>
+        <w>204.4</w>
+        <h>32.8</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="14_1517946" type="button" x="-16581.554479032056" y="-136292.36779382205" r="89.65639931572089" s="13.577444408563666" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="16_1517946" type="label" x="-17788.288096830365" y="-137355.5383052754" r="89.65639931572089" s="14.094825408803967" class="body">
+      <textfield autoSize="true">
+        <x>-152.35</x>
+        <y>-59.6</y>
+        <text><![CDATA[700 Mhz CPU ARM-11 FamilyVideocore 4 GPU512 MB RAM24 GFLOPS]]></text>
+        <annotations>r0-62 { color: #fff; }
+r0-26 { align: left; }
+r26-42 { align: left; }
+r42-53 { align: left; }
+r53-62 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1526009" type="button" x="-36883.564812556506" y="-125279.55214597029" r="-1.0595681109507458" s="12.827847266878006" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1526009" type="label" x="-42486.09164371108" y="-125608.02592176548" r="-1.0595681109507458" s="14.094825408804542" class="body">
+      <textfield autoSize="true">
+        <x>-89.6</x>
+        <y>-59.6</y>
+        <text><![CDATA[5V via MicroUSBor GPIO header750mA3.5W]]></text>
+        <annotations>r0-41 { color: #fff; }
+r0-16 { align: left; }
+r16-31 { align: left; }
+r31-37 { align: left; }
+r37-41 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1526560" type="button" x="-29768.84931682731" y="-150339.97553750715" r="-1.059568110950745" s="17.120319589111283" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1526560" type="label" x="-33683.92348253869" y="-153797.9604667123" r="-1.0595681109507453" s="28.1896508176091" class="body">
+      <textfield autoSize="true">
+        <x>-196.9</x>
+        <y>-45.2</y>
+        <text><![CDATA[13x2 headers8xGPIOs + 9xReprogrammable GPIOs2xUART  1xCLK  2xI2C  5xSPI  1xPWM]]></text>
+        <annotations>r0-80 { color: #fff; }
+r0-13 { align: left; }
+r13-46 { align: left; }
+r46-80 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_1527133" type="button" x="-9818.152506617233" y="-151621.37135248512" r="-1.0595681109507458" s="20.689298396010454" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>692.642166275531</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1_1527133" type="label" x="-4035.667746906759" y="-156923.20797113434" r="-1.0595681109507453" s="28.1896508176091" class="body">
+      <textfield>
+        <x>-229.65</x>
+        <y>-16.4</y>
+        <text><![CDATA[RCA Video Port              3.5mm Audio Jack]]></text>
+        <annotations>r0-44 { color: #fff; }
+r0-44 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="3_1527133" type="button" x="7800.026883753273" y="-139542.81071841007" r="-1.0595681109507455" s="22.921756592986444" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="4_1527133" type="label" x="13277.187140527765" y="-144700.02769993278" r="-1.0595681109507453" s="28.1896508176091" class="body">
+      <textfield autoSize="true">
+        <x>-37.55</x>
+        <y>-16.4</y>
+        <text><![CDATA[2x USB]]></text>
+        <annotations>r0-6 { color: #fff; }
+r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="5_1527133" type="button" x="8773.803134184025" y="-125685.83548837909" r="-1.0595681109507458" s="28.652195741232994" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="6_1527133" type="label" x="15473.249836306466" y="-126145.3267967061" r="-1.0595681109507458" s="56.37930163521817" class="body">
+      <textfield autoSize="true">
+        <x>-47.65</x>
+        <y>-45.2</y>
+        <text><![CDATA[8P8CEthernetPort]]></text>
+        <annotations>r0-18 { color: #fff; }
+r0-5 { align: left; }
+r5-14 { align: left; }
+r14-18 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="7_1527133" type="button" x="-14042.195496318334" y="-123203.73673388854" r="-1.0595681109507455" s="19.039832869520268" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1212.8712871287128</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="8_1527133" type="label" x="-22382.12485566843" y="-119772.5486103196" r="-1.0595681109507453" s="28.1896508176091" class="body">
+      <textfield autoSize="true">
+        <x>-60.05</x>
+        <y>-16.4</y>
+        <text><![CDATA[HDMI Port]]></text>
+        <annotations>r0-9 { color: #fff; }
+r0-9 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="7_1558809" type="button" x="-17572.634074110214" y="-60283.1473826369" r="-0.8395928127284726" s="0.39259621968646347" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="4_1558809" type="label" x="-9454.223027201084" y="-71528.4547635597" r="-1.0595681109507502" s="100.66249208705553" class="head">
+      <textfield autoSize="true">
+        <x>-68.95</x>
+        <y>-16.4</y>
+        <text><![CDATA[Power Supply]]></text>
+        <w>137.9</w>
+        <h>32.8</h>
+        <annotations>r0-12 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="9_1558809" type="image" x="-17571.259309767094" y="-60269.021670008435" r="-0.8395928127284651" s="0.16723238544709623">
+      <source w="448" h="336">
+        662225067.png
+        <url>662225067.png</url>
+      </source>
+      <resource>
+        <id>662225067</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/e/d/0ede25e8b2a7edfc5cf9ac10fcb72ecc887a7.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/e/d/0ede25e8b2a7edfc5cf9ac10fcb72ecc887a7.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="12_1558809" type="label" x="-17185.00196862704" y="-67115.35489951943" r="-0.8395928127284842" s="34.20051736562772" class="body">
+      <textfield autoSize="true">
+        <x>-258.35</x>
+        <y>-30.8</y>
+        <text><![CDATA[Input voltage of 12-0-12V AC outputOutput voltages of +5, +12, -5 and -12 V DC]]></text>
+        <annotations>r0-36 { bullet: true; }
+r0-36 { align: left; }
+r0-36 { blockIndent: 72; }
+r36-79 { bullet: true; }
+r36-79 { align: left; }
+r36-79 { blockIndent: 72; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="13_1558809" type="button" x="-168.37593879032903" y="-59123.43057857293" r="-0.839592812728466" s="0.7828018554927326" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="16_1558809" type="image" x="-168.37593879032903" y="-59123.43057857293" r="-0.839592812728462" s="1.1206171620845597">
+      <source w="166" h="154">
+        662823313.jpg
+        <url>662823313.jpg</url>
+      </source>
+      <resource>
+        <id>662823313</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/d/0ec874ce93a8f63c34a2367bcffa9926e2d0c.jpg</url>
+      </resource>
+      <sourceUrl>powersupply.jpg</sourceUrl>
+      <layout/>
+    </object>
+    <object id="17_1558809" type="label" x="8561.695173951983" y="-14524.82122421553" r="-0.8395928127284702" s="117.03543072102525" class="head">
+      <textfield autoSize="true">
+        <x>-80.35</x>
+        <y>-16.4</y>
+        <text><![CDATA[Solid State Relay]]></text>
+        <annotations>r0-17 { align: left; }
+r0-17 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="18_1558809" type="button" x="10868.248046062818" y="-8125.973113328105" r="-0.8395928127284649" s="59.40717119131419" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="21_1558809" type="button" x="-8904.796540324205" y="71751.16552342298" r="-0.8395928127284649" s="6.524350804103308" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="22_1558809" type="labelwithplaceholder" x="-8913.141655496524" y="71181.71608606275" r="-0.8395928127284652" s="4.240828022667146" class="head">
+      <placeholder text="Click to add text" x="-61.65" y="-16.4" align="center" width="123.35"/>
+      <layout/>
+    </object>
+    <object id="24_1558809" type="image" x="-8886.235452483297" y="71732.33013379134" r="-0.8395928127284643" s="5.750020188825405">
+      <source w="400" h="157">
+        662882155.gif
+        <url>662882155.gif</url>
+      </source>
+      <resource>
+        <id>662882155</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/3/2/5bb5e9d101d815164ccacd99736f6a2113353.gif</url>
+      </resource>
+      <layout/>
+    </object>
+    <object id="23_1558809" type="labelwithplaceholder" x="-8908.825216614292" y="71476.2588984905" r="-0.8395928127284646" s="2.9359578618464868" class="strong">
+      <placeholder text="Click to add text" x="-94.2" y="-16.9" align="center" width="188.4"/>
+      <layout/>
+    </object>
+    <object id="25_1558809" type="button" x="15915.858165558297" y="136086.91329972446" r="-0.8395928127284645" s="41.0812884272744" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="28_1558809" type="button" x="-2011.135369065056" y="226848.80416318227" r="-0.8395928127284646" s="42.07552647902495" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1256.183745583039</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="29_1558809" type="button" x="-1626.2899566394435" y="227658.26874769258" r="-0.8395928127284641" s="25.969280764017757" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1256.183745583039</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="38_1558809" type="button" x="-23079.856594034783" y="-301789.81537444046" r="-90.0392958157995" s="40.91324050721932" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="41_1558809" type="label" x="-23160.44347358713" y="-306290.3738504457" r="-90.0392958157995" s="48.21309261994747" class="body">
+      <textfield>
+        <x>-202.15</x>
+        <y>-203.6</y>
+        <text><![CDATA[To design a range-unbounded home automation systemTo enable control and monitoring of appliances over the internet instead of only locallyTo detect occupancy of a given area via means of a web camera onlyTo accurately detect humans and other subjects of interest as per requirement using only the web camera and intelligent algorithms]]></text>
+        <w>404.3</w>
+        <h>407.2</h>
+        <annotations>r0-51 { align: left; }
+r52-141 { align: left; }
+r142-209 { align: left; }
+r210-340 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="3_1240922" type="button" x="2973.2498934669156" y="457338.9037653228" r="-0.839592812728464" s="173.12198093708264" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="0_1254719" type="image" x="20316.82865251354" y="446162.7019040605" r="-0.8395928127284643" s="52.23671655655733">
+      <source w="220" h="220">
+        663455439.png
+        <url>663455439.png</url>
+      </source>
+      <resource>
+        <id>663455439</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/3/e/8ff9db6a284f778014b9a5695fc539cace518.png</url>
+      </resource>
+      <layout/>
+    </object>
+    <object id="4_1240922" type="label" x="20211.88603208871" y="439335.6018279012" r="-0.8395928127284636" s="112.52928760910379" class="head">
+      <textfield autoSize="true">
+        <x>-88.65</x>
+        <y>-16.4</y>
+        <text><![CDATA[7-Segment Display]]></text>
+        <w>177.35</w>
+        <h>32.8</h>
+        <annotations>r0-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="6_1240922" type="image" x="3108.428628677349" y="466472.5655292059" r="-0.8395928127284636" s="52.44629238017413">
+      <source w="730" h="400">
+        663449779.JPG
+        <url>663449779.JPG</url>
+      </source>
+      <resource>
+        <id>663449779</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/8/0/82dc94bc2e9f44650b56f87fe6c4c50475163.JPG</url>
+      </resource>
+      <sourceUrl>Seven segment.JPG</sourceUrl>
+      <layout/>
+    </object>
+    <object id="1_1254719" type="button" x="20278.209383042307" y="443575.10895167873" r="-0.8395928127284634" s="52.89718768946953" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="4_1254719" type="button" x="4029.8170545013786" y="530951.2581846423" r="-0.839592812728464" s="173.12198093708264" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="7_1254719" type="image" x="3889.5772296444666" y="520916.5646808807" r="-0.8395928127284644" s="75.14664246019612">
+      <source w="743" h="322">
+        663489319.jpe
+        <url>663489319.jpe</url>
+      </source>
+      <resource>
+        <id>663489319</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/d/b/8b0dc0c8e929667738c9d011c496202fbe3ad.jpe</url>
+      </resource>
+      <sourceUrl>https://dl.dropboxusercontent.com/u/14455221/Table.jpg</sourceUrl>
+      <layout/>
+    </object>
+    <object id="8_1254719" type="image" x="4578.304518183037" y="543094.5208316625" r="-1.641591759620756e-16" s="93.15216868509617">
+      <source w="220" h="220">
+        663522487.png
+        <url>663522487.png</url>
+      </source>
+      <resource>
+        <id>663522487</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/9/6/c31b56876333ae39f2d7712916651e6efa653.png</url>
+      </resource>
+      <layout/>
+    </object>
+    <object id="9_1254719" type="button" x="18446.08678385247" y="300714.1774550544" r="-0.8395928127284641" s="67.33166052063473" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="10_1254719" type="labelwithplaceholder" x="18359.964734523943" y="294837.4278210695" r="-0.8395928127284651" s="43.76557933841256" class="head">
+      <placeholder text="Click to add text" x="-61.65" y="-16.4" align="center" width="123.35"/>
+      <layout/>
+    </object>
+    <object id="11_1254719" type="labelwithplaceholder" x="18404.510622107642" y="297877.12590761343" r="-0.8395928127284646" s="30.29924723428561" class="strong">
+      <placeholder text="Click to add text" x="-94.2" y="-16.9" align="center" width="188.4"/>
+      <layout/>
+    </object>
+    <object id="0_3130408" type="label" x="41399.71090145586" y="-554911.3950239979" r="0" s="158.57001773613905" class="head">
+      <textfield autoSize="true">
+        <x>-112.75</x>
+        <y>-16.4</y>
+        <text><![CDATA[BMS INSTITUTE OF TECHNOLOGY]]></text>
+        <annotations>r0-27 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="1_3130408" type="label" x="41393.060857564895" y="-549239.0999989748" r="0" s="101.56694146257558" class="head">
+      <textfield>
+        <x>-191.05</x>
+        <y>-16.4</y>
+        <text><![CDATA[Department of Electrical and Electronics Engineering]]></text>
+        <annotations>r0-52 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="0_10789" type="button" x="-22332.169950964515" y="-449637.7198744525" r="0" s="77.20549420998499" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>999.788031914894</w>
+        <h>749.1499999999999</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="1_10789" type="shape" x="-22440.876605652353" y="-456567.79947758827" r="-3.2115466433206915e-15" s="61.16257294424654" class="line3">
+      <geom type="line">
+        <sp>-88.9 86.675</sp>
+        <ep>88.9 86.675</ep>
+        <b>-173.35</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="2_10789" type="shape" x="-26314.747709600302" y="-448014.5754197341" r="69.36213536358876" s="61.16257294424636" class="line3">
+      <geom type="line">
+        <sp>-58.75079216581212 5.175</sp>
+        <ep>58.75079216581213 5.175</ep>
+        <b>-10.35</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="3_10789" type="shape" x="-18446.718268223438" y="-448048.8465774201" r="-70.61336993184484" s="61.16257294424658" class="line3">
+      <geom type="line">
+        <sp>57.463362645730335 4.800000000000015</sp>
+        <ep>-57.46336264573034 4.799999999999983</ep>
+        <b>9.599999999999998</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="4_10789" type="shape" x="-25437.651546879908" y="-454629.71044741716" r="-65.4996825734709" s="61.16257294424654" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="5_10789" type="shape" x="-22334.599668362378" y="-454503.43713320844" r="-65.4996825734709" s="61.16257294424654" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="6_10789" type="shape" x="-23939.7419088672" y="-454612.1262076957" r="-115.90463875252652" s="61.16257294424655" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="7_10789" type="shape" x="-20814.52556445674" y="-454607.3478816844" r="-115.90463875252652" s="61.16257294424655" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="8_10789" type="shape" x="-19222.19620446131" y="-454530.70353246393" r="-65.4996825734709" s="61.16257294424654" class="line3">
+      <geom type="line">
+        <sp>-28.39413726898564 0</sp>
+        <ep>28.39413726898564 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="9_10789" type="shape" x="-22358.84499918816" y="-443503.2827636566" r="-4.41063183630647e-15" s="89.06953158912603" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="10_10789" type="shape" x="-22358.49826521802" y="-442440.0096596289" r="-4.41063183630647e-15" s="89.06953158912603" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="11_10789" type="shape" x="-22358.55941946603" y="-441363.3572427698" r="-4.41063183630647e-15" s="89.06953158912603" class="line3">
+      <geom type="line">
+        <sp>-34.572764579229464 0</sp>
+        <ep>34.57276457922947 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="12_10789" type="shape" x="-26469.753629879233" y="-464455.58400987217" r="41.43188862087571" s="43.687552103033234" class="line4">
+      <geom type="arrow">
+        <sp>63.87284836463097 10.080000000000016</sp>
+        <ep>-63.87284836463097 10.07999999999998</ep>
+        <b>20.159999999999997</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="13_10789" type="shape" x="-17713.69099126466" y="-464284.7110592142" r="-40.93514544776639" s="43.68755210303326" class="line4">
+      <geom type="arrow">
+        <sp>-61.4620699310577 9.029999999999998</sp>
+        <ep>61.4620699310577 9.029999999999998</ep>
+        <b>-18.059999999999995</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="14_10789" type="shape" x="-12188.737610362728" y="-456179.1703348503" r="-3.7717142786010407" s="43.68755210303335" class="line4">
+      <geom type="arrow">
+        <sp>-54.28930735102486 10.724999999999996</sp>
+        <ep>54.28930735102486 10.724999999999996</ep>
+        <b>-21.449999999999992</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="15_10789" type="shape" x="-32727.83418358733" y="-455570.07682759454" r="-3.1519868047807207" s="43.68755210303335" class="line4">
+      <geom type="arrow">
+        <sp>57.132618367059514 6.405000000000001</sp>
+        <ep>-57.132618367059514 6.4049999999999985</ep>
+        <b>12.81</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="16_10789" type="label" x="-22332.03211640459" y="-436118.33002231014" r="-5.899639694199504e-15" s="133.17861158814665" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[The Idea!]]></text>
+        <w>198.4</w>
+        <h>32.8</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="17_10789" type="button" x="-40069.14344818277" y="-452825.6826184455" r="-56.90071251775021" s="11.765213001422563" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="18_10789" type="label" x="-40373.48698470761" y="-452567.11973671796" r="-56.90071251775021" s="17.127396945468362" class="head">
+      <textfield autoSize="true">
+        <x>-154.7</x>
+        <y>-16.4</y>
+        <text><![CDATA[Internet is Ubiquitous!]]></text>
+        <w>309.45</w>
+        <h>32.8</h>
+        <annotations>r0-23 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="19_10789" type="button" x="-34381.39502566027" y="-468874.09344959765" r="-16.227686709290555" s="11.765213001422556" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="20_10789" type="button" x="-10224.905915420664" y="-468877.5237623367" r="26.566307488049034" s="11.765213001422564" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="21_10789" type="button" x="-4388.550872307682" y="-454274.6932701077" r="-5.169424152570804" s="11.76521300142256" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>lighbulb</parentTemplate>
+      </meta>
+      <layout/>
+    </object>
+    <object id="22_10789" type="label" x="-35562.52843037052" y="-468981.63333031075" r="-16.227686709290566" s="17.127396945468334" class="head">
+      <textfield autoSize="true">
+        <x>-60.3</x>
+        <y>-16.4</y>
+        <text><![CDATA[People]]></text>
+        <w>120.65</w>
+        <h>32.8</h>
+        <annotations>r0-6 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="23_10789" type="label" x="-9885.075925768773" y="-469074.01326768234" r="26.56630748804903" s="17.12739694546835" class="head">
+      <textfield autoSize="true">
+        <x>-116.35</x>
+        <y>-16.4</y>
+        <text><![CDATA[A Mobile Phone!]]></text>
+        <w>232.7</w>
+        <h>32.8</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="24_10789" type="label" x="-4403.947772688474" y="-454433.5962578585" r="-5.169424152570812" s="17.12739694546832" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[Smart Saving]]></text>
+        <w>198.4</w>
+        <h>32.8</h>
+        <annotations>r0-12 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="25_10789" type="image" x="-33383.22042443213" y="-469254.12823272444" r="-16.22768670929056" s="2.6620934397640856">
+      <source w="567" h="567" bt="295.9" bl="261.75">
+        233792522.swf
+        <url>233792522.swf</url>
+      </source>
+      <resource>
+        <id>233792522</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/8/5187bf51b394f12469620c8d55ceabf3b4921.swf</url>
+      </resource>
+      <sourceUrl>059_nagyito.swf</sourceUrl>
+      <meta>
+        <parentObjlib>059_nagyito</parentObjlib>
+      </meta>
+      <layout/>
+    </object>
+    <object id="26_10789" type="label" x="-33841.59362370423" y="-469528.05532755965" r="-11.05826255671975" s="3.829312206723068" class="strong">
+      <textfield autoSize="true">
+        <x>-41.4</x>
+        <y>-16.9</y>
+        <text><![CDATA[Luxury]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="27_10789" type="label" x="-33598.82959400491" y="-469354.122333309" r="-11.05826255671975" s="3.829312206723068" class="strong">
+      <textfield autoSize="true">
+        <x>-45.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[Comfort]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="33_10789" type="button" x="-35584.64095447775" y="-467573.82448489027" r="-33.88876337423098" s="0.29474379493332387" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="34_10789" type="label" x="-35614.983310786236" y="-467590.20746672625" r="-33.88876337423098" s="0.26821685338932505" class="head">
+      <textfield autoSize="true">
+        <x>-134.25</x>
+        <y>-16.4</y>
+        <text><![CDATA[what People Need?]]></text>
+        <w>268.5</w>
+        <h>32.8</h>
+        <annotations>r5-17 { color: #318bff; }
+r0-17 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="35_10789" type="label" x="-35592.32967361197" y="-467579.7275207193" r="-33.88876337423099" s="0.18011492759672296" class="head">
+      <textfield autoSize="true">
+        <x>-55</x>
+        <y>-16.4</y>
+        <text><![CDATA[Ease of Access]]></text>
+        <annotations>r0-14 { color: #6fcc00; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="36_10789" type="label" x="-35608.928876687765" y="-467546.0322800475" r="-33.88876337423098" s="0.26821685338932505" class="head">
+      <textfield autoSize="true">
+        <x>-55.6</x>
+        <y>-16.4</y>
+        <text><![CDATA[Instant Access]]></text>
+        <annotations>r0-14 { color: #35afa9; }
+r0-14 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="37_10789" type="label" x="-35557.42302594471" y="-467564.6764680259" r="-33.88876337423099" s="0.18011492759672296" class="head">
+      <textfield autoSize="true">
+        <x>-27.45</x>
+        <y>-16.4</y>
+        <text><![CDATA[Luxury]]></text>
+        <annotations>r0-6 { color: #87234b; }
+r0-6 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="48_10789" type="button" x="-22065.574708660482" y="-450568.67706391483" r="-3.2788374514624222e-15" s="3.744209242294518" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="49_10789" type="label" x="-22262.307025439517" y="-450965.3160366013" r="-5.044365309942189e-15" s="2.4337360074914356" class="head">
+      <textfield autoSize="true">
+        <x>-181.55</x>
+        <y>-16.4</y>
+        <text><![CDATA[so the Project is ?]]></text>
+        <w>363.15</w>
+        <h>32.8</h>
+        <annotations>r7-15 { color: #318bff; }
+ r0-19 { align: center; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="50_10789" type="label" x="-21972.9357955121" y="-450713.811652463" r="-5.044365309942189e-15" s="2.4337360074914356" class="body">
+      <textfield autoSize="true">
+        <x>-228.1</x>
+        <y>-30.8</y>
+        <text><![CDATA[Developing a system to control appliancesremotely using the Internet.]]></text>
+        <annotations>r0-42 { align: left; }
+r42-70 { align: left; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="51_10789" type="label" x="-21929.413056947124" y="-450464.0425382022" r="-5.044365309942189e-15" s="2.4337360074914356" class="body">
+      <textfield autoSize="true">
+        <x>-168.75</x>
+        <y>-30.8</y>
+        <text><![CDATA[Mobile Phone is the remoteSmart Occupancy Sensor]]></text>
+        <annotations>r0-27 { bullet: true; }
+r0-27 { align: left; }
+r0-27 { blockIndent: 36; }
+r27-49 { bullet: true; }
+r27-49 { align: left; }
+r27-49 { blockIndent: 36; }</annotations>
+      </textfield>
+      <layout/>
+    </object>
+    <object id="52_10789" type="button" x="-21682.191051180896" y="-434914.28686925815" r="-1.764673128484883e-14" s="27.82759773825653" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="53_10789" type="button" x="-34587.91137078527" y="-469264.8278009653" r="-11.05826255671976" s="3.176088711688659" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.146645865835</w>
+        <h>600</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="3_17060231" type="image" x="-17314.774686879857" y="-205350.67416650106" r="5.116477306001625e-30" s="3.201471316495809">
+      <source w="2550" h="3300">
+        707864915.png
+        <url>707864915.png</url>
+      </source>
+      <resource>
+        <id>707864915</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/8/d/3a5c0159c11252db4cff6085a545692f3a0d6.png</url>
+      </resource>
+      <sourceUrl>HardwareModules.png</sourceUrl>
+      <layout/>
+    </object>
+    <object id="0_17060231" type="button" x="-17422.44566743848" y="-207096.1964442165" r="5.116477306001623e-30" s="19.993157083674454" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <layout/>
+    </object>
+    <object id="1" type="image" x="-25045.7" y="-526658.5" r="0" s="71.49571315584508">
+      <source w="595" h="841">
+        ReportEdit-13.1-1.png
+        <url>ReportEdit-13.1-1.png</url>
+      </source>
+      <sourceUrl>ReportEdit-13.1-1.png</sourceUrl>
+      <layout/>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="40"/>
+    </s>
+    <s>
+      <eagle o="52_10789"/>
+    </s>
+    <s>
+      <eagle o="17_10789"/>
+    </s>
+    <s>
+      <eagle o="19_10789"/>
+    </s>
+    <s>
+      <eagle o="53_10789"/>
+    </s>
+    <s>
+      <eagle o="20_10789"/>
+    </s>
+    <s>
+      <eagle o="21_10789"/>
+    </s>
+    <s>
+      <eagle o="0_10789"/>
+    </s>
+    <s>
+      <eagle o="48_10789"/>
+    </s>
+    <s>
+      <eagle o="185"/>
+    </s>
+    <s>
+      <eagle o="37"/>
+    </s>
+    <s>
+      <eagle o="61"/>
+    </s>
+    <s>
+      <eagle o="162"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="180"/>
+    </s>
+    <s>
+      <eagle o="158"/>
+    </s>
+    <s>
+      <eagle o="38_1558809"/>
+    </s>
+    <s>
+      <eagle o="12_1517946"/>
+    </s>
+    <s>
+      <eagle o="0_17060231"/>
+    </s>
+    <s>
+      <eagle o="11_1517946"/>
+    </s>
+    <s>
+      <eagle o="5_1517946"/>
+    </s>
+    <s>
+      <eagle o="14_1517946"/>
+    </s>
+    <s>
+      <eagle o="0_1526009"/>
+    </s>
+    <s>
+      <eagle o="0_1526560"/>
+    </s>
+    <s>
+      <eagle o="0_1527133"/>
+    </s>
+    <s>
+      <eagle o="3_1527133"/>
+    </s>
+    <s>
+      <eagle o="5_1527133"/>
+    </s>
+    <s>
+      <eagle o="7_1527133"/>
+    </s>
+    <s>
+      <eagle o="25_1558809"/>
+    </s>
+    <s>
+      <eagle o="169"/>
+    </s>
+    <s>
+      <eagle o="143"/>
+    </s>
+    <s>
+      <eagle o="29_1558809"/>
+    </s>
+    <s>
+      <eagle o="3_1558809"/>
+    </s>
+    <s>
+      <eagle o="7_1558809"/>
+    </s>
+    <s>
+      <eagle o="155"/>
+    </s>
+    <s>
+      <eagle o="3_1558809"/>
+    </s>
+    <s>
+      <eagle o="13_1558809"/>
+    </s>
+    <s>
+      <eagle o="173"/>
+    </s>
+    <s>
+      <eagle o="18_1558809"/>
+    </s>
+    <s>
+      <eagle o="147"/>
+    </s>
+    <s>
+      <eagle o="21_1558809"/>
+    </s>
+    <s>
+      <eagle o="147"/>
+    </s>
+    <s>
+      <eagle o="1_1254719"/>
+    </s>
+    <s>
+      <eagle o="3_1240922"/>
+    </s>
+    <s>
+      <eagle o="6_1240922"/>
+    </s>
+    <s>
+      <eagle o="4_1254719"/>
+    </s>
+    <s>
+      <eagle o="9_1254719"/>
+    </s>
+    <s>
+      <eagle o="139"/>
+    </s>
+    <s>
+      <eagle o="135"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('YanoneKaffeesatz.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('Fontin.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('LoveYaLikeASister.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('Fontin-I.swf');
+	fontFamily: fontin-i;
+}
+
+ZLabel.head-background
+{
+	background-color: #fd0;
+	background-padding-bottom: 3;
+	background-padding-top: 3;
+	background-padding: 6;
+	background-alpha: 0.8;
+}
+
+ZLabel.strong-background
+{
+	background-color: #2d5e99;
+	background-padding-bottom: 3;
+	background-padding-top: 5;
+	background-padding: 6;
+	background-alpha: 0.9;
+}
+
+ZLabel.body-background
+{
+	background-color: #ddd;
+	background-padding-bottom: 3;
+	background-padding-top: 3;
+	background-padding: 5;
+	background-alpha: 0.9;
+}
+
+ZCircle
+{
+	lockTintColor: #ffffe6;
+	gradStartColor: #008080;
+	borderThickness: 0;
+	radius: 0;
+	gradEndAlpha: 1;
+	lockTintAlpha: 0;
+	thickness: 100;
+	gradEndColor: #008080;
+	borderColor: #008080;
+	borderAlpha: 1;
+	gradStartAlpha: 1;
+}
+
+ZPoly
+{
+	gradStartColor: #f8981d;
+	borderThickness: 0;
+	radius: 0;
+	gradEndAlpha: 1;
+	borderAlpha: 1;
+	thickness: 100;
+	gradEndColor: #f8981d;
+	color: #f8981d;
+	borderColor: #f8981d;
+	lockTintAlpha: 0;
+	gradStartAlpha: 1;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #00547f;
+	fontFamily: head;
+}
+
+.line5
+{
+	gradStartColor: #9c9c9c;
+	color: #9c9c9c;
+	borderColor: #9c9c9c;
+	gradEndColor: #9c9c9c;
+}
+
+.poly5
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #9c9c9c;
+	gradEndColor: #fff;
+}
+
+ZLabel.strong
+{
+	color: #f8981d;
+	fontFamily: strong;
+}
+
+.line1
+{
+	gradStartColor: #00547f;
+	color: #00547f;
+	gradEndColor: #00547f;
+}
+
+.poly1
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #00547f;
+	gradEndColor: #fff;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	gradEndColor: #2d5e99;
+	gradStartColor: #2d5e99;
+	gradEndAlpha: 0.9;
+	gradStartAlpha: 0.9;
+	thickness: 6;
+}
+
+.line4
+{
+	gradStartColor: #fd0;
+	color: #fd0;
+	borderColor: #fd0;
+	gradEndColor: #fd0;
+}
+
+.poly4
+{
+	gradStartColor: #f8981d;
+	borderColor: #f8981d;
+	gradEndColor: #f8981d;
+}
+
+ZFrame.bracket
+{
+	gradStartColor: #3f2500;
+	borderThickness: 1;
+	gradEndAlpha: 0.5;
+	borderAlpha: 0.05;
+	thickness: 8;
+	borderColor: #201000;
+	gradStartAlpha: 0.3;
+	gradEndColor: #2c0700;
+}
+
+.line2
+{
+	gradStartColor: #ed1c24;
+	color: #ed1c24;
+	borderColor: #ed1c24;
+	gradEndColor: #ed1c24;
+}
+
+.poly2
+{
+	gradStartColor: #00547f;
+	borderColor: #00547f;
+	gradEndColor: #00547f;
+}
+
+ZFrame.roundrect
+{
+	gradStartColor: #000;
+	gradEndAlpha: 0.1;
+	gradStartAlpha: 0.2;
+	gradEndColor: #000;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	thickness: 7;
+	borderColor: #f8981d;
+	gradStartAlpha: 1;
+	lockTintColor: #f8981d;
+	gradStartColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	lockTintAlpha: 0;
+	gradEndColor: #f8981d;
+	radius: 0;
+	borderAlpha: 0;
+}
+
+.line3
+{
+	gradStartColor: #f8981d;
+	color: #f8981d;
+	borderColor: #f8981d;
+	gradEndColor: #f8981d;
+}
+
+.poly3
+{
+	gradStartColor: #fff;
+	borderThickness: 9;
+	borderColor: #f8981d;
+	gradEndColor: #fff;
+}
+
+ZLine
+{
+	gradStartColor: #f8981d;
+	color: #f8981d;
+	borderColor: #f8981d;
+	lockTintAlpha: 0;
+	gradEndColor: #f8981d;
+}
+
+ZCurveLine
+{
+	alpha: 1;
+	color: #288acc;
+	thickness: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #fd0;
+	thickness: 25;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZPath
+{
+	alpha: 1;
+	textColor: #fff;
+	color: #40abe6;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #40abe6;
+	radius: 8;
+	alpha: .5;
+}
+
+ZPath Ball.base
+{
+	fillColor: #40abe6;
+	radius: 12;
+	alpha: 1;
+}
+
+]]></style>
+  <hash>-7c60e737</hash>
+  <sync>
+    <oid>3r3aduen317j</oid>
+    <hash>12014d58</hash>
+  </sync>
+  <config>RQmgD6jgx7WL9gAbC6UB+JrGKV9y2III9g==</config>
+</zuiprezi>
